@@ -1,0 +1,140 @@
+{
+    "config": {
+        "skip_failed_fires": true,
+        "load": {
+            "sources": [
+                {
+                    "name": "bsf",
+                    "format": "CSV",
+                    "type": "file",
+                    "file": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/fire_locations_no_grow/2019053109_noBSFgrowth.csv",
+                    "omit_nulls": true,
+                    "skip_failures": true,
+                    "load_consumption": true
+                }
+            ]
+        },
+        "growth": {
+            "forecast_end": "2019-06-01T23:00:00"
+        },
+        "timeprofile": {
+            "model": "ubc-bsf-feps",
+            "ubc-bsf-feps": {
+                "INTERPOLATION_TYPE": 1,
+                "NORMALIZE": true,
+                "working_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/workingwet8/2019053100/timeprofile/"
+            }
+        },
+        "plumerise": {
+            "model": "feps",
+            "feps": {
+                "working_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/workingwet8/2019053100/plumerise/",
+                "consumption_in_tons_per_acre": true,
+                "load_heat": true
+            }
+        },
+        "emissions": {
+            "model": "ubc-bsf-feps",
+            "ubc-bsf-feps": {
+                "working_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/workingwet8/2019053100/emissions/"
+            }
+        },
+        "filter": {
+            "time": {
+                "start": "2019-05-29T00:00:00",
+                "end": "2019-05-31T23:00:00"
+            }
+        },
+        "dispersion": {
+            "start": "2019-05-31T00:00:00",
+            "num_hours": 51,
+            "model": "hysplit",
+            "output_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/",
+            "working_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/workingwet8/2019053100/",
+            "handle_existing": "write_in_place",
+            "hysplit": {
+                "DISPERSION_OFFSET": 0,
+                "USER_DEFINED_GRID": true,
+                "CENTER_LATITUDE": 55.0,
+                "CENTER_LONGITUDE": -98.5,
+                "HEIGHT_LATITUDE": 30.0,
+                "WIDTH_LONGITUDE": 92.0,
+                "SPACING_LATITUDE": 0.1,
+                "SPACING_LONGITUDE": 0.1,
+                "VERTICAL_EMISLEVELS_REDUCTION_FACTOR": 5,
+                "OPTIMIZE_GRID_RESOLUTION": false,
+                "FIRE_INTERVALS": [
+                    0,
+                    50,
+                    100,
+                    500,
+                    1000
+                ],
+                "VERTICAL_LEVELS": [
+                    10
+                ],
+                "PARDUMP": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/PARDUMP",
+                "PARINIT": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053009/PARDUMP",
+                "STOP_IF_NO_PARINIT": false,
+                "MAKE_INIT_FILE": true,
+                "NDUMP": 24,
+                "NCYCL": 24,
+                "MPI": true,
+                "NCPUS": 8,
+                "NUMPAR": 2500,
+                "MAXPAR": 630000,
+                "QCYCLE": 1.0,
+                "MGMIN": 750,
+                "DELT": -3.0,
+                "KHMAX": 168,
+                "INITD": 1,
+                "NINIT": 1,
+                "WET_DEPOSITION": true,
+                "WET_DEP_BELOW_CLOUD_SCAV": 8.4e-05,
+                "WET_DEP_IN_CLOUD_SCAV": 0.000336
+            }
+        },
+        "visualization": {
+            "targets": [
+                "dispersion"
+            ],
+            "dispersion": {
+                "hysplit": {
+                    "blueskykml_config": {
+                        "6Levels-YellowOrangeBrown": {
+                            "DEFINE_RGB": "true",
+                            "RED": "0 255 254 254 254 204 102",
+                            "GREEN": "0 247 227 196 153 76 37",
+                            "BLUE": "0 188 145 79 41 2 6",
+                            "DATA_LEVELS": "0 1 10 28 60 120 250 5000",
+                            "DEFINE_HEX": "false",
+                            "HEX_COLORS": "#000000 #fff7bc #fee391 #fec44f #fe9929 #cc4c02 #662506",
+                            "IMAGE_OPACITY_FACTOR": "1.0"
+                        },
+                        "DispersionGridOutput": {
+                            "HOURLY_COLORS": "6Levels-YellowOrangeBrown",
+                            "THREE_HOUR_COLORS": "6Levels-YellowOrangeBrown",
+                            "DAILY_COLORS": "6Levels-YellowOrangeBrown"
+                        },
+                        "DispersionImages": {
+                            "REPROJECT_IMAGES": "true"
+                        }
+                    },
+                    "output_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/",
+                    "images_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/",
+                    "data_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/",
+                    "create_summary_json": true
+                }
+            }
+        },
+        "extrafiles": {
+            "dest_dir": "/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019053100/",
+            "sets": [
+                "emissionscsv"
+            ],
+            "emissionscsv": {
+                "filename": "fire_emissions.csv"
+            }
+        }
+    }
+}

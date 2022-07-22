@@ -1,0 +1,1867 @@
+ Simulation Date (CCYYMMDD): 20220531
+ Simulation Time (HHMMSS.S): 172021.925
+ WARNING: metini - FLUXES not found in data (kg,kt)           1           1
+ Setting KBLS=2 to use the wind/temp profiles!
+  NOTICE   main: number meteo grids and times -            1           1
+ WARNING main: source point off grid            1          41
+ Position:   26.8299999      -82.2310028    
+ Grid Loc:   332.075928       8.31999969    
+ WARNING main: source point off grid            1          42
+ Position:   26.8299999      -82.2310028    
+ Grid Loc:   332.075928       8.31999969    
+ WARNING main: source point off grid            1          43
+ Position:   26.8299999      -82.2310028    
+ Grid Loc:   332.075928       8.31999969    
+ WARNING main: source point off grid            1          44
+ Position:   26.8299999      -82.2310028    
+ Grid Loc:   332.075928       8.31999969    
+ WARNING main: source point off grid            1          45
+ Position:   26.8299999      -82.2310028    
+ Grid Loc:   332.075928       8.31999969    
+ WARNING main: source point off grid            1          46
+ Position:   31.0020008      -84.6019974    
+ Grid Loc:   322.592041       25.0080032    
+ WARNING main: source point off grid            1          47
+ Position:   31.0020008      -84.6019974    
+ Grid Loc:   322.592041       25.0080032    
+ WARNING main: source point off grid            1          48
+ Position:   31.0020008      -84.6019974    
+ Grid Loc:   322.592041       25.0080032    
+ WARNING main: source point off grid            1          49
+ Position:   31.0020008      -84.6019974    
+ Grid Loc:   322.592041       25.0080032    
+ WARNING main: source point off grid            1          50
+ Position:   31.0020008      -84.6019974    
+ Grid Loc:   322.592041       25.0080032    
+ WARNING main: source point off grid            1          51
+ Position:   37.2309990      -82.0410004    
+ Grid Loc:   332.835938       49.9239960    
+ WARNING main: source point off grid            1          52
+ Position:   37.2309990      -82.0410004    
+ Grid Loc:   332.835938       49.9239960    
+ WARNING main: source point off grid            1          53
+ Position:   37.2309990      -82.0410004    
+ Grid Loc:   332.835938       49.9239960    
+ WARNING main: source point off grid            1          54
+ Position:   37.2309990      -82.0410004    
+ Grid Loc:   332.835938       49.9239960    
+ WARNING main: source point off grid            1          55
+ Position:   37.2309990      -82.0410004    
+ Grid Loc:   332.835938       49.9239960    
+ WARNING main: source point off grid            1          56
+ Position:   30.8409996      -90.4169998    
+ Grid Loc:   299.332031       24.3639984    
+ WARNING main: source point off grid            1          57
+ Position:   30.8409996      -90.4169998    
+ Grid Loc:   299.332031       24.3639984    
+ WARNING main: source point off grid            1          58
+ Position:   30.8409996      -90.4169998    
+ Grid Loc:   299.332031       24.3639984    
+ WARNING main: source point off grid            1          59
+ Position:   30.8409996      -90.4169998    
+ Grid Loc:   299.332031       24.3639984    
+ WARNING main: source point off grid            1          60
+ Position:   30.8409996      -90.4169998    
+ Grid Loc:   299.332031       24.3639984    
+ WARNING main: source point off grid            1          71
+ Position:   41.4710007      -90.8330002    
+ Grid Loc:   297.667969       66.8840027    
+ WARNING main: source point off grid            1          72
+ Position:   41.4710007      -90.8330002    
+ Grid Loc:   297.667969       66.8840027    
+ WARNING main: source point off grid            1          73
+ Position:   41.4710007      -90.8330002    
+ Grid Loc:   297.667969       66.8840027    
+ WARNING main: source point off grid            1          74
+ Position:   41.4710007      -90.8330002    
+ Grid Loc:   297.667969       66.8840027    
+ WARNING main: source point off grid            1          75
+ Position:   41.4710007      -90.8330002    
+ Grid Loc:   297.667969       66.8840027    
+ WARNING main: source point off grid            1         221
+ Position:   25.1870003      -107.938004    
+ Grid Loc:   229.247986       1.74800110    
+ WARNING main: source point off grid            1         222
+ Position:   25.1870003      -107.938004    
+ Grid Loc:   229.247986       1.74800110    
+ WARNING main: source point off grid            1         223
+ Position:   25.1870003      -107.938004    
+ Grid Loc:   229.247986       1.74800110    
+ WARNING main: source point off grid            1         224
+ Position:   25.1870003      -107.938004    
+ Grid Loc:   229.247986       1.74800110    
+ WARNING main: source point off grid            1         225
+ Position:   25.1870003      -107.938004    
+ Grid Loc:   229.247986       1.74800110    
+ WARNING main: source point off grid            1         226
+ Position:   33.3720016      -86.2040024    
+ Grid Loc:   316.183960       34.4880066    
+ WARNING main: source point off grid            1         227
+ Position:   33.3720016      -86.2040024    
+ Grid Loc:   316.183960       34.4880066    
+ WARNING main: source point off grid            1         228
+ Position:   33.3720016      -86.2040024    
+ Grid Loc:   316.183960       34.4880066    
+ WARNING main: source point off grid            1         229
+ Position:   33.3720016      -86.2040024    
+ Grid Loc:   316.183960       34.4880066    
+ WARNING main: source point off grid            1         230
+ Position:   33.3720016      -86.2040024    
+ Grid Loc:   316.183960       34.4880066    
+ WARNING main: source point off grid            1         236
+ Position:   32.2799988      -86.8150024    
+ Grid Loc:   313.739990       30.1199951    
+ WARNING main: source point off grid            1         237
+ Position:   32.2799988      -86.8150024    
+ Grid Loc:   313.739990       30.1199951    
+ WARNING main: source point off grid            1         238
+ Position:   32.2799988      -86.8150024    
+ Grid Loc:   313.739990       30.1199951    
+ WARNING main: source point off grid            1         239
+ Position:   32.2799988      -86.8150024    
+ Grid Loc:   313.739990       30.1199951    
+ WARNING main: source point off grid            1         240
+ Position:   32.2799988      -86.8150024    
+ Grid Loc:   313.739990       30.1199951    
+ WARNING main: source point off grid            1         241
+ Position:   30.1669998      -92.6589966    
+ Grid Loc:   290.364014       21.6679993    
+ WARNING main: source point off grid            1         242
+ Position:   30.1669998      -92.6589966    
+ Grid Loc:   290.364014       21.6679993    
+ WARNING main: source point off grid            1         243
+ Position:   30.1669998      -92.6589966    
+ Grid Loc:   290.364014       21.6679993    
+ WARNING main: source point off grid            1         244
+ Position:   30.1669998      -92.6589966    
+ Grid Loc:   290.364014       21.6679993    
+ WARNING main: source point off grid            1         245
+ Position:   30.1669998      -92.6589966    
+ Grid Loc:   290.364014       21.6679993    
+ WARNING main: source point off grid            1         246
+ Position:   32.3909988      -81.8379974    
+ Grid Loc:   333.647949       30.5639954    
+ WARNING main: source point off grid            1         247
+ Position:   32.3909988      -81.8379974    
+ Grid Loc:   333.647949       30.5639954    
+ WARNING main: source point off grid            1         248
+ Position:   32.3909988      -81.8379974    
+ Grid Loc:   333.647949       30.5639954    
+ WARNING main: source point off grid            1         249
+ Position:   32.3909988      -81.8379974    
+ Grid Loc:   333.647949       30.5639954    
+ WARNING main: source point off grid            1         250
+ Position:   32.3909988      -81.8379974    
+ Grid Loc:   333.647949       30.5639954    
+ WARNING main: source point off grid            1         251
+ Position:   41.6959991      -85.8750000    
+ Grid Loc:   317.500000       67.7839966    
+ WARNING main: source point off grid            1         252
+ Position:   41.6959991      -85.8750000    
+ Grid Loc:   317.500000       67.7839966    
+ WARNING main: source point off grid            1         253
+ Position:   41.6959991      -85.8750000    
+ Grid Loc:   317.500000       67.7839966    
+ WARNING main: source point off grid            1         254
+ Position:   41.6959991      -85.8750000    
+ Grid Loc:   317.500000       67.7839966    
+ WARNING main: source point off grid            1         255
+ Position:   41.6959991      -85.8750000    
+ Grid Loc:   317.500000       67.7839966    
+ WARNING main: source point off grid            1         296
+ Position:   30.2210007      -93.3119965    
+ Grid Loc:   287.751953       21.8840027    
+ WARNING main: source point off grid            1         297
+ Position:   30.2210007      -93.3119965    
+ Grid Loc:   287.751953       21.8840027    
+ WARNING main: source point off grid            1         298
+ Position:   30.2210007      -93.3119965    
+ Grid Loc:   287.751953       21.8840027    
+ WARNING main: source point off grid            1         299
+ Position:   30.2210007      -93.3119965    
+ Grid Loc:   287.751953       21.8840027    
+ WARNING main: source point off grid            1         300
+ Position:   30.2210007      -93.3119965    
+ Grid Loc:   287.751953       21.8840027    
+ WARNING main: source point off grid            1         301
+ Position:   30.8509998      -86.1029968    
+ Grid Loc:   316.588013       24.4039993    
+ WARNING main: source point off grid            1         302
+ Position:   30.8509998      -86.1029968    
+ Grid Loc:   316.588013       24.4039993    
+ WARNING main: source point off grid            1         303
+ Position:   30.8509998      -86.1029968    
+ Grid Loc:   316.588013       24.4039993    
+ WARNING main: source point off grid            1         304
+ Position:   30.8509998      -86.1029968    
+ Grid Loc:   316.588013       24.4039993    
+ WARNING main: source point off grid            1         305
+ Position:   30.8509998      -86.1029968    
+ Grid Loc:   316.588013       24.4039993    
+ WARNING main: source point off grid            1         306
+ Position:   31.0170002      -91.6800003    
+ Grid Loc:   294.280029       25.0680008    
+ WARNING main: source point off grid            1         307
+ Position:   31.0170002      -91.6800003    
+ Grid Loc:   294.280029       25.0680008    
+ WARNING main: source point off grid            1         308
+ Position:   31.0170002      -91.6800003    
+ Grid Loc:   294.280029       25.0680008    
+ WARNING main: source point off grid            1         309
+ Position:   31.0170002      -91.6800003    
+ Grid Loc:   294.280029       25.0680008    
+ WARNING main: source point off grid            1         310
+ Position:   31.0170002      -91.6800003    
+ Grid Loc:   294.280029       25.0680008    
+ WARNING main: source point off grid            1         311
+ Position:   43.1110001      -70.7249985    
+ Grid Loc:   378.099976       73.4440002    
+ WARNING main: source point off grid            1         312
+ Position:   43.1110001      -70.7249985    
+ Grid Loc:   378.099976       73.4440002    
+ WARNING main: source point off grid            1         313
+ Position:   43.1110001      -70.7249985    
+ Grid Loc:   378.099976       73.4440002    
+ WARNING main: source point off grid            1         314
+ Position:   43.1110001      -70.7249985    
+ Grid Loc:   378.099976       73.4440002    
+ WARNING main: source point off grid            1         315
+ Position:   43.1110001      -70.7249985    
+ Grid Loc:   378.099976       73.4440002    
+ WARNING main: source point off grid            1         316
+ Position:   34.4539986      -82.6859970    
+ Grid Loc:   330.255981       38.8159943    
+ WARNING main: source point off grid            1         317
+ Position:   34.4539986      -82.6859970    
+ Grid Loc:   330.255981       38.8159943    
+ WARNING main: source point off grid            1         318
+ Position:   34.4539986      -82.6859970    
+ Grid Loc:   330.255981       38.8159943    
+ WARNING main: source point off grid            1         319
+ Position:   34.4539986      -82.6859970    
+ Grid Loc:   330.255981       38.8159943    
+ WARNING main: source point off grid            1         320
+ Position:   34.4539986      -82.6859970    
+ Grid Loc:   330.255981       38.8159943    
+ WARNING main: source point off grid            1         321
+ Position:   32.9280014      -85.9540024    
+ Grid Loc:   317.183960       32.7120056    
+ WARNING main: source point off grid            1         322
+ Position:   32.9280014      -85.9540024    
+ Grid Loc:   317.183960       32.7120056    
+ WARNING main: source point off grid            1         323
+ Position:   32.9280014      -85.9540024    
+ Grid Loc:   317.183960       32.7120056    
+ WARNING main: source point off grid            1         324
+ Position:   32.9280014      -85.9540024    
+ Grid Loc:   317.183960       32.7120056    
+ WARNING main: source point off grid            1         325
+ Position:   32.9280014      -85.9540024    
+ Grid Loc:   317.183960       32.7120056    
+ WARNING main: source point off grid            1         351
+ Position:   28.6110001      -82.5640030    
+ Grid Loc:   330.744019       15.4440002    
+ WARNING main: source point off grid            1         352
+ Position:   28.6110001      -82.5640030    
+ Grid Loc:   330.744019       15.4440002    
+ WARNING main: source point off grid            1         353
+ Position:   28.6110001      -82.5640030    
+ Grid Loc:   330.744019       15.4440002    
+ WARNING main: source point off grid            1         354
+ Position:   28.6110001      -82.5640030    
+ Grid Loc:   330.744019       15.4440002    
+ WARNING main: source point off grid            1         355
+ Position:   28.6110001      -82.5640030    
+ Grid Loc:   330.744019       15.4440002    
+ WARNING main: source point off grid            1         356
+ Position:   28.0480003      -81.4240036    
+ Grid Loc:   335.303955       13.1920013    
+ WARNING main: source point off grid            1         357
+ Position:   28.0480003      -81.4240036    
+ Grid Loc:   335.303955       13.1920013    
+ WARNING main: source point off grid            1         358
+ Position:   28.0480003      -81.4240036    
+ Grid Loc:   335.303955       13.1920013    
+ WARNING main: source point off grid            1         359
+ Position:   28.0480003      -81.4240036    
+ Grid Loc:   335.303955       13.1920013    
+ WARNING main: source point off grid            1         360
+ Position:   28.0480003      -81.4240036    
+ Grid Loc:   335.303955       13.1920013    
+ WARNING main: source point off grid            1         361
+ Position:   27.1910000      -81.1080017    
+ Grid Loc:   336.567993       9.76399994    
+ WARNING main: source point off grid            1         362
+ Position:   27.1910000      -81.1080017    
+ Grid Loc:   336.567993       9.76399994    
+ WARNING main: source point off grid            1         363
+ Position:   27.1910000      -81.1080017    
+ Grid Loc:   336.567993       9.76399994    
+ WARNING main: source point off grid            1         364
+ Position:   27.1910000      -81.1080017    
+ Grid Loc:   336.567993       9.76399994    
+ WARNING main: source point off grid            1         365
+ Position:   27.1910000      -81.1080017    
+ Grid Loc:   336.567993       9.76399994    
+ WARNING main: source point off grid            1         366
+ Position:   35.9370003      -89.7160034    
+ Grid Loc:   302.135986       44.7480011    
+ WARNING main: source point off grid            1         367
+ Position:   35.9370003      -89.7160034    
+ Grid Loc:   302.135986       44.7480011    
+ WARNING main: source point off grid            1         368
+ Position:   35.9370003      -89.7160034    
+ Grid Loc:   302.135986       44.7480011    
+ WARNING main: source point off grid            1         369
+ Position:   35.9370003      -89.7160034    
+ Grid Loc:   302.135986       44.7480011    
+ WARNING main: source point off grid            1         370
+ Position:   35.9370003      -89.7160034    
+ Grid Loc:   302.135986       44.7480011    
+ WARNING main: source point off grid            1         371
+ Position:   31.4510002      -84.9940033    
+ Grid Loc:   321.023926       26.8040009    
+ WARNING main: source point off grid            1         372
+ Position:   31.4510002      -84.9940033    
+ Grid Loc:   321.023926       26.8040009    
+ WARNING main: source point off grid            1         373
+ Position:   31.4510002      -84.9940033    
+ Grid Loc:   321.023926       26.8040009    
+ WARNING main: source point off grid            1         374
+ Position:   31.4510002      -84.9940033    
+ Grid Loc:   321.023926       26.8040009    
+ WARNING main: source point off grid            1         375
+ Position:   31.4510002      -84.9940033    
+ Grid Loc:   321.023926       26.8040009    
+ WARNING main: source point off grid            1         376
+ Position:   34.6479988      -92.5419998    
+ Grid Loc:   290.832031       39.5919952    
+ WARNING main: source point off grid            1         377
+ Position:   34.6479988      -92.5419998    
+ Grid Loc:   290.832031       39.5919952    
+ WARNING main: source point off grid            1         378
+ Position:   34.6479988      -92.5419998    
+ Grid Loc:   290.832031       39.5919952    
+ WARNING main: source point off grid            1         379
+ Position:   34.6479988      -92.5419998    
+ Grid Loc:   290.832031       39.5919952    
+ WARNING main: source point off grid            1         380
+ Position:   34.6479988      -92.5419998    
+ Grid Loc:   290.832031       39.5919952    
+ WARNING main: source point off grid            1         381
+ Position:   30.6840000      -84.0589981    
+ Grid Loc:   324.764038       23.7360001    
+ WARNING main: source point off grid            1         382
+ Position:   30.6840000      -84.0589981    
+ Grid Loc:   324.764038       23.7360001    
+ WARNING main: source point off grid            1         383
+ Position:   30.6840000      -84.0589981    
+ Grid Loc:   324.764038       23.7360001    
+ WARNING main: source point off grid            1         384
+ Position:   30.6840000      -84.0589981    
+ Grid Loc:   324.764038       23.7360001    
+ WARNING main: source point off grid            1         385
+ Position:   30.6840000      -84.0589981    
+ Grid Loc:   324.764038       23.7360001    
+ WARNING main: source point off grid            1         386
+ Position:   30.6849995      -85.3259964    
+ Grid Loc:   319.696045       23.7399979    
+ WARNING main: source point off grid            1         387
+ Position:   30.6849995      -85.3259964    
+ Grid Loc:   319.696045       23.7399979    
+ WARNING main: source point off grid            1         388
+ Position:   30.6849995      -85.3259964    
+ Grid Loc:   319.696045       23.7399979    
+ WARNING main: source point off grid            1         389
+ Position:   30.6849995      -85.3259964    
+ Grid Loc:   319.696045       23.7399979    
+ WARNING main: source point off grid            1         390
+ Position:   30.6849995      -85.3259964    
+ Grid Loc:   319.696045       23.7399979    
+ WARNING main: source point off grid            1         391
+ Position:   28.6019993      -82.2829971    
+ Grid Loc:   331.868042       15.4079971    
+ WARNING main: source point off grid            1         392
+ Position:   28.6019993      -82.2829971    
+ Grid Loc:   331.868042       15.4079971    
+ WARNING main: source point off grid            1         393
+ Position:   28.6019993      -82.2829971    
+ Grid Loc:   331.868042       15.4079971    
+ WARNING main: source point off grid            1         394
+ Position:   28.6019993      -82.2829971    
+ Grid Loc:   331.868042       15.4079971    
+ WARNING main: source point off grid            1         395
+ Position:   28.6019993      -82.2829971    
+ Grid Loc:   331.868042       15.4079971    
+ WARNING main: source point off grid            1         396
+ Position:   33.0159988      -79.8880005    
+ Grid Loc:   341.447998       33.0639954    
+ WARNING main: source point off grid            1         397
+ Position:   33.0159988      -79.8880005    
+ Grid Loc:   341.447998       33.0639954    
+ WARNING main: source point off grid            1         398
+ Position:   33.0159988      -79.8880005    
+ Grid Loc:   341.447998       33.0639954    
+ WARNING main: source point off grid            1         399
+ Position:   33.0159988      -79.8880005    
+ Grid Loc:   341.447998       33.0639954    
+ WARNING main: source point off grid            1         400
+ Position:   33.0159988      -79.8880005    
+ Grid Loc:   341.447998       33.0639954    
+ WARNING main: source point off grid            1         401
+ Position:   31.1499996      -87.9820023    
+ Grid Loc:   309.072021       25.5999985    
+ WARNING main: source point off grid            1         402
+ Position:   31.1499996      -87.9820023    
+ Grid Loc:   309.072021       25.5999985    
+ WARNING main: source point off grid            1         403
+ Position:   31.1499996      -87.9820023    
+ Grid Loc:   309.072021       25.5999985    
+ WARNING main: source point off grid            1         404
+ Position:   31.1499996      -87.9820023    
+ Grid Loc:   309.072021       25.5999985    
+ WARNING main: source point off grid            1         405
+ Position:   31.1499996      -87.9820023    
+ Grid Loc:   309.072021       25.5999985    
+ WARNING main: source point off grid            1         406
+ Position:   34.0120010      -81.9570007    
+ Grid Loc:   333.171997       37.0480042    
+ WARNING main: source point off grid            1         407
+ Position:   34.0120010      -81.9570007    
+ Grid Loc:   333.171997       37.0480042    
+ WARNING main: source point off grid            1         408
+ Position:   34.0120010      -81.9570007    
+ Grid Loc:   333.171997       37.0480042    
+ WARNING main: source point off grid            1         409
+ Position:   34.0120010      -81.9570007    
+ Grid Loc:   333.171997       37.0480042    
+ WARNING main: source point off grid            1         410
+ Position:   34.0120010      -81.9570007    
+ Grid Loc:   333.171997       37.0480042    
+ WARNING main: source point off grid            1         431
+ Position:   42.7989998      -91.9489975    
+ Grid Loc:   293.203979       72.1959991    
+ WARNING main: source point off grid            1         432
+ Position:   42.7989998      -91.9489975    
+ Grid Loc:   293.203979       72.1959991    
+ WARNING main: source point off grid            1         433
+ Position:   42.7989998      -91.9489975    
+ Grid Loc:   293.203979       72.1959991    
+ WARNING main: source point off grid            1         434
+ Position:   42.7989998      -91.9489975    
+ Grid Loc:   293.203979       72.1959991    
+ WARNING main: source point off grid            1         435
+ Position:   42.7989998      -91.9489975    
+ Grid Loc:   293.203979       72.1959991    
+ WARNING main: source point off grid            1         446
+ Position:   41.2960014      -75.7539978    
+ Grid Loc:   357.984009       66.1840057    
+ WARNING main: source point off grid            1         447
+ Position:   41.2960014      -75.7539978    
+ Grid Loc:   357.984009       66.1840057    
+ WARNING main: source point off grid            1         448
+ Position:   41.2960014      -75.7539978    
+ Grid Loc:   357.984009       66.1840057    
+ WARNING main: source point off grid            1         449
+ Position:   41.2960014      -75.7539978    
+ Grid Loc:   357.984009       66.1840057    
+ WARNING main: source point off grid            1         450
+ Position:   41.2960014      -75.7539978    
+ Grid Loc:   357.984009       66.1840057    
+ WARNING main: source point off grid            1         451
+ Position:   30.5340004      -85.0360031    
+ Grid Loc:   320.855957       23.1360016    
+ WARNING main: source point off grid            1         452
+ Position:   30.5340004      -85.0360031    
+ Grid Loc:   320.855957       23.1360016    
+ WARNING main: source point off grid            1         453
+ Position:   30.5340004      -85.0360031    
+ Grid Loc:   320.855957       23.1360016    
+ WARNING main: source point off grid            1         454
+ Position:   30.5340004      -85.0360031    
+ Grid Loc:   320.855957       23.1360016    
+ WARNING main: source point off grid            1         455
+ Position:   30.5340004      -85.0360031    
+ Grid Loc:   320.855957       23.1360016    
+ WARNING main: source point off grid            1         456
+ Position:   34.4370003      -84.9189987    
+ Grid Loc:   321.323975       38.7480011    
+ WARNING main: source point off grid            1         457
+ Position:   34.4370003      -84.9189987    
+ Grid Loc:   321.323975       38.7480011    
+ WARNING main: source point off grid            1         458
+ Position:   34.4370003      -84.9189987    
+ Grid Loc:   321.323975       38.7480011    
+ WARNING main: source point off grid            1         459
+ Position:   34.4370003      -84.9189987    
+ Grid Loc:   321.323975       38.7480011    
+ WARNING main: source point off grid            1         460
+ Position:   34.4370003      -84.9189987    
+ Grid Loc:   321.323975       38.7480011    
+ WARNING main: source point off grid            1         461
+ Position:   31.7439995      -89.8690033    
+ Grid Loc:   301.523926       27.9759979    
+ WARNING main: source point off grid            1         462
+ Position:   31.7439995      -89.8690033    
+ Grid Loc:   301.523926       27.9759979    
+ WARNING main: source point off grid            1         463
+ Position:   31.7439995      -89.8690033    
+ Grid Loc:   301.523926       27.9759979    
+ WARNING main: source point off grid            1         464
+ Position:   31.7439995      -89.8690033    
+ Grid Loc:   301.523926       27.9759979    
+ WARNING main: source point off grid            1         465
+ Position:   31.7439995      -89.8690033    
+ Grid Loc:   301.523926       27.9759979    
+ WARNING main: source point off grid            1         466
+ Position:   32.5940018      -87.6819992    
+ Grid Loc:   310.271973       31.3760071    
+ WARNING main: source point off grid            1         467
+ Position:   32.5940018      -87.6819992    
+ Grid Loc:   310.271973       31.3760071    
+ WARNING main: source point off grid            1         468
+ Position:   32.5940018      -87.6819992    
+ Grid Loc:   310.271973       31.3760071    
+ WARNING main: source point off grid            1         469
+ Position:   32.5940018      -87.6819992    
+ Grid Loc:   310.271973       31.3760071    
+ WARNING main: source point off grid            1         470
+ Position:   32.5940018      -87.6819992    
+ Grid Loc:   310.271973       31.3760071    
+ WARNING main: source point off grid            1         471
+ Position:   40.2330017      -90.0650024    
+ Grid Loc:   300.739990       61.9320068    
+ WARNING main: source point off grid            1         472
+ Position:   40.2330017      -90.0650024    
+ Grid Loc:   300.739990       61.9320068    
+ WARNING main: source point off grid            1         473
+ Position:   40.2330017      -90.0650024    
+ Grid Loc:   300.739990       61.9320068    
+ WARNING main: source point off grid            1         474
+ Position:   40.2330017      -90.0650024    
+ Grid Loc:   300.739990       61.9320068    
+ WARNING main: source point off grid            1         475
+ Position:   40.2330017      -90.0650024    
+ Grid Loc:   300.739990       61.9320068    
+ WARNING main: source point off grid            1         481
+ Position:   32.8129997      -83.5550003    
+ Grid Loc:   326.780029       32.2519989    
+ WARNING main: source point off grid            1         482
+ Position:   32.8129997      -83.5550003    
+ Grid Loc:   326.780029       32.2519989    
+ WARNING main: source point off grid            1         483
+ Position:   32.8129997      -83.5550003    
+ Grid Loc:   326.780029       32.2519989    
+ WARNING main: source point off grid            1         484
+ Position:   32.8129997      -83.5550003    
+ Grid Loc:   326.780029       32.2519989    
+ WARNING main: source point off grid            1         485
+ Position:   32.8129997      -83.5550003    
+ Grid Loc:   326.780029       32.2519989    
+ WARNING main: source point off grid            1         486
+ Position:   31.1959991      -84.1240005    
+ Grid Loc:   324.504028       25.7839966    
+ WARNING main: source point off grid            1         487
+ Position:   31.1959991      -84.1240005    
+ Grid Loc:   324.504028       25.7839966    
+ WARNING main: source point off grid            1         488
+ Position:   31.1959991      -84.1240005    
+ Grid Loc:   324.504028       25.7839966    
+ WARNING main: source point off grid            1         489
+ Position:   31.1959991      -84.1240005    
+ Grid Loc:   324.504028       25.7839966    
+ WARNING main: source point off grid            1         490
+ Position:   31.1959991      -84.1240005    
+ Grid Loc:   324.504028       25.7839966    
+ WARNING main: source point off grid            1         511
+ Position:   25.3880005      -107.239998    
+ Grid Loc:   232.040039       2.55200195    
+ WARNING main: source point off grid            1         512
+ Position:   25.3880005      -107.239998    
+ Grid Loc:   232.040039       2.55200195    
+ WARNING main: source point off grid            1         513
+ Position:   25.3880005      -107.239998    
+ Grid Loc:   232.040039       2.55200195    
+ WARNING main: source point off grid            1         514
+ Position:   25.3880005      -107.239998    
+ Grid Loc:   232.040039       2.55200195    
+ WARNING main: source point off grid            1         515
+ Position:   25.3880005      -107.239998    
+ Grid Loc:   232.040039       2.55200195    
+ WARNING main: source point off grid            1         561
+ Position:   25.2630005      -106.611000    
+ Grid Loc:   234.556030       2.05200195    
+ WARNING main: source point off grid            1         562
+ Position:   25.2630005      -106.611000    
+ Grid Loc:   234.556030       2.05200195    
+ WARNING main: source point off grid            1         563
+ Position:   25.2630005      -106.611000    
+ Grid Loc:   234.556030       2.05200195    
+ WARNING main: source point off grid            1         564
+ Position:   25.2630005      -106.611000    
+ Grid Loc:   234.556030       2.05200195    
+ WARNING main: source point off grid            1         565
+ Position:   25.2630005      -106.611000    
+ Grid Loc:   234.556030       2.05200195    
+ WARNING main: source point off grid            1         566
+ Position:   25.3670006      -107.257004    
+ Grid Loc:   231.971985       2.46800232    
+ WARNING main: source point off grid            1         567
+ Position:   25.3670006      -107.257004    
+ Grid Loc:   231.971985       2.46800232    
+ WARNING main: source point off grid            1         568
+ Position:   25.3670006      -107.257004    
+ Grid Loc:   231.971985       2.46800232    
+ WARNING main: source point off grid            1         569
+ Position:   25.3670006      -107.257004    
+ Grid Loc:   231.971985       2.46800232    
+ WARNING main: source point off grid            1         570
+ Position:   25.3670006      -107.257004    
+ Grid Loc:   231.971985       2.46800232    
+ WARNING main: source point off grid            1         581
+ Position:   31.1149998      -86.7689972    
+ Grid Loc:   313.924072       25.4599991    
+ WARNING main: source point off grid            1         582
+ Position:   31.1149998      -86.7689972    
+ Grid Loc:   313.924072       25.4599991    
+ WARNING main: source point off grid            1         583
+ Position:   31.1149998      -86.7689972    
+ Grid Loc:   313.924072       25.4599991    
+ WARNING main: source point off grid            1         584
+ Position:   31.1149998      -86.7689972    
+ Grid Loc:   313.924072       25.4599991    
+ WARNING main: source point off grid            1         585
+ Position:   31.1149998      -86.7689972    
+ Grid Loc:   313.924072       25.4599991    
+ WARNING main: source point off grid            1         586
+ Position:   33.0460014      -92.1610031    
+ Grid Loc:   292.355957       33.1840057    
+ WARNING main: source point off grid            1         587
+ Position:   33.0460014      -92.1610031    
+ Grid Loc:   292.355957       33.1840057    
+ WARNING main: source point off grid            1         588
+ Position:   33.0460014      -92.1610031    
+ Grid Loc:   292.355957       33.1840057    
+ WARNING main: source point off grid            1         589
+ Position:   33.0460014      -92.1610031    
+ Grid Loc:   292.355957       33.1840057    
+ WARNING main: source point off grid            1         590
+ Position:   33.0460014      -92.1610031    
+ Grid Loc:   292.355957       33.1840057    
+ WARNING main: source point off grid            1         741
+ Position:   30.9440002      -88.0139999    
+ Grid Loc:   308.943970       24.7760010    
+ WARNING main: source point off grid            1         742
+ Position:   30.9440002      -88.0139999    
+ Grid Loc:   308.943970       24.7760010    
+ WARNING main: source point off grid            1         743
+ Position:   30.9440002      -88.0139999    
+ Grid Loc:   308.943970       24.7760010    
+ WARNING main: source point off grid            1         744
+ Position:   30.9440002      -88.0139999    
+ Grid Loc:   308.943970       24.7760010    
+ WARNING main: source point off grid            1         745
+ Position:   30.9440002      -88.0139999    
+ Grid Loc:   308.943970       24.7760010    
+ WARNING main: source point off grid            1         751
+ Position:   40.5820007      -75.7149963    
+ Grid Loc:   358.140015       63.3280029    
+ WARNING main: source point off grid            1         752
+ Position:   40.5820007      -75.7149963    
+ Grid Loc:   358.140015       63.3280029    
+ WARNING main: source point off grid            1         753
+ Position:   40.5820007      -75.7149963    
+ Grid Loc:   358.140015       63.3280029    
+ WARNING main: source point off grid            1         754
+ Position:   40.5820007      -75.7149963    
+ Grid Loc:   358.140015       63.3280029    
+ WARNING main: source point off grid            1         755
+ Position:   40.5820007      -75.7149963    
+ Grid Loc:   358.140015       63.3280029    
+ WARNING main: source point off grid            1         756
+ Position:   40.2299995      -76.7429962    
+ Grid Loc:   354.028076       61.9199982    
+ WARNING main: source point off grid            1         757
+ Position:   40.2299995      -76.7429962    
+ Grid Loc:   354.028076       61.9199982    
+ WARNING main: source point off grid            1         758
+ Position:   40.2299995      -76.7429962    
+ Grid Loc:   354.028076       61.9199982    
+ WARNING main: source point off grid            1         759
+ Position:   40.2299995      -76.7429962    
+ Grid Loc:   354.028076       61.9199982    
+ WARNING main: source point off grid            1         760
+ Position:   40.2299995      -76.7429962    
+ Grid Loc:   354.028076       61.9199982    
+ WARNING main: source point off grid            1         761
+ Position:   31.2089996      -87.5839996    
+ Grid Loc:   310.664062       25.8359985    
+ WARNING main: source point off grid            1         762
+ Position:   31.2089996      -87.5839996    
+ Grid Loc:   310.664062       25.8359985    
+ WARNING main: source point off grid            1         763
+ Position:   31.2089996      -87.5839996    
+ Grid Loc:   310.664062       25.8359985    
+ WARNING main: source point off grid            1         764
+ Position:   31.2089996      -87.5839996    
+ Grid Loc:   310.664062       25.8359985    
+ WARNING main: source point off grid            1         765
+ Position:   31.2089996      -87.5839996    
+ Grid Loc:   310.664062       25.8359985    
+ WARNING main: source point off grid            1         766
+ Position:   35.0699997      -79.6409988    
+ Grid Loc:   342.436035       41.2799988    
+ WARNING main: source point off grid            1         767
+ Position:   35.0699997      -79.6409988    
+ Grid Loc:   342.436035       41.2799988    
+ WARNING main: source point off grid            1         768
+ Position:   35.0699997      -79.6409988    
+ Grid Loc:   342.436035       41.2799988    
+ WARNING main: source point off grid            1         769
+ Position:   35.0699997      -79.6409988    
+ Grid Loc:   342.436035       41.2799988    
+ WARNING main: source point off grid            1         770
+ Position:   35.0699997      -79.6409988    
+ Grid Loc:   342.436035       41.2799988    
+ WARNING main: source point off grid            1         771
+ Position:   37.6199989      -77.0070038    
+ Grid Loc:   352.971924       51.4799957    
+ WARNING main: source point off grid            1         772
+ Position:   37.6199989      -77.0070038    
+ Grid Loc:   352.971924       51.4799957    
+ WARNING main: source point off grid            1         773
+ Position:   37.6199989      -77.0070038    
+ Grid Loc:   352.971924       51.4799957    
+ WARNING main: source point off grid            1         774
+ Position:   37.6199989      -77.0070038    
+ Grid Loc:   352.971924       51.4799957    
+ WARNING main: source point off grid            1         775
+ Position:   37.6199989      -77.0070038    
+ Grid Loc:   352.971924       51.4799957    
+ WARNING main: source point off grid            1         776
+ Position:   30.6879997      -82.0299988    
+ Grid Loc:   332.880005       23.7519989    
+ WARNING main: source point off grid            1         777
+ Position:   30.6879997      -82.0299988    
+ Grid Loc:   332.880005       23.7519989    
+ WARNING main: source point off grid            1         778
+ Position:   30.6879997      -82.0299988    
+ Grid Loc:   332.880005       23.7519989    
+ WARNING main: source point off grid            1         779
+ Position:   30.6879997      -82.0299988    
+ Grid Loc:   332.880005       23.7519989    
+ WARNING main: source point off grid            1         780
+ Position:   30.6879997      -82.0299988    
+ Grid Loc:   332.880005       23.7519989    
+ WARNING main: source point off grid            1         781
+ Position:   31.9710007      -85.9649963    
+ Grid Loc:   317.140015       28.8840027    
+ WARNING main: source point off grid            1         782
+ Position:   31.9710007      -85.9649963    
+ Grid Loc:   317.140015       28.8840027    
+ WARNING main: source point off grid            1         783
+ Position:   31.9710007      -85.9649963    
+ Grid Loc:   317.140015       28.8840027    
+ WARNING main: source point off grid            1         784
+ Position:   31.9710007      -85.9649963    
+ Grid Loc:   317.140015       28.8840027    
+ WARNING main: source point off grid            1         785
+ Position:   31.9710007      -85.9649963    
+ Grid Loc:   317.140015       28.8840027    
+ WARNING main: source point off grid            1         786
+ Position:   30.2970009      -82.8659973    
+ Grid Loc:   329.536011       22.1880035    
+ WARNING main: source point off grid            1         787
+ Position:   30.2970009      -82.8659973    
+ Grid Loc:   329.536011       22.1880035    
+ WARNING main: source point off grid            1         788
+ Position:   30.2970009      -82.8659973    
+ Grid Loc:   329.536011       22.1880035    
+ WARNING main: source point off grid            1         789
+ Position:   30.2970009      -82.8659973    
+ Grid Loc:   329.536011       22.1880035    
+ WARNING main: source point off grid            1         790
+ Position:   30.2970009      -82.8659973    
+ Grid Loc:   329.536011       22.1880035    
+ WARNING main: source point off grid            1         791
+ Position:   29.6100006      -82.4960022    
+ Grid Loc:   331.015991       19.4400024    
+ WARNING main: source point off grid            1         792
+ Position:   29.6100006      -82.4960022    
+ Grid Loc:   331.015991       19.4400024    
+ WARNING main: source point off grid            1         793
+ Position:   29.6100006      -82.4960022    
+ Grid Loc:   331.015991       19.4400024    
+ WARNING main: source point off grid            1         794
+ Position:   29.6100006      -82.4960022    
+ Grid Loc:   331.015991       19.4400024    
+ WARNING main: source point off grid            1         795
+ Position:   29.6100006      -82.4960022    
+ Grid Loc:   331.015991       19.4400024    
+ WARNING main: source point off grid            1         796
+ Position:   30.3680000      -83.5780029    
+ Grid Loc:   326.687988       22.4720001    
+ WARNING main: source point off grid            1         797
+ Position:   30.3680000      -83.5780029    
+ Grid Loc:   326.687988       22.4720001    
+ WARNING main: source point off grid            1         798
+ Position:   30.3680000      -83.5780029    
+ Grid Loc:   326.687988       22.4720001    
+ WARNING main: source point off grid            1         799
+ Position:   30.3680000      -83.5780029    
+ Grid Loc:   326.687988       22.4720001    
+ WARNING main: source point off grid            1         800
+ Position:   30.3680000      -83.5780029    
+ Grid Loc:   326.687988       22.4720001    
+ WARNING main: source point off grid            1         801
+ Position:   30.6469994      -85.6039963    
+ Grid Loc:   318.583984       23.5879974    
+ WARNING main: source point off grid            1         802
+ Position:   30.6469994      -85.6039963    
+ Grid Loc:   318.583984       23.5879974    
+ WARNING main: source point off grid            1         803
+ Position:   30.6469994      -85.6039963    
+ Grid Loc:   318.583984       23.5879974    
+ WARNING main: source point off grid            1         804
+ Position:   30.6469994      -85.6039963    
+ Grid Loc:   318.583984       23.5879974    
+ WARNING main: source point off grid            1         805
+ Position:   30.6469994      -85.6039963    
+ Grid Loc:   318.583984       23.5879974    
+ WARNING main: source point off grid            1         806
+ Position:   34.6290016      -86.0609970    
+ Grid Loc:   316.755981       39.5160065    
+ WARNING main: source point off grid            1         807
+ Position:   34.6290016      -86.0609970    
+ Grid Loc:   316.755981       39.5160065    
+ WARNING main: source point off grid            1         808
+ Position:   34.6290016      -86.0609970    
+ Grid Loc:   316.755981       39.5160065    
+ WARNING main: source point off grid            1         809
+ Position:   34.6290016      -86.0609970    
+ Grid Loc:   316.755981       39.5160065    
+ WARNING main: source point off grid            1         810
+ Position:   34.6290016      -86.0609970    
+ Grid Loc:   316.755981       39.5160065    
+ WARNING main: source point off grid            1         811
+ Position:   41.6839981      -85.6979980    
+ Grid Loc:   318.208008       67.7359924    
+ WARNING main: source point off grid            1         812
+ Position:   41.6839981      -85.6979980    
+ Grid Loc:   318.208008       67.7359924    
+ WARNING main: source point off grid            1         813
+ Position:   41.6839981      -85.6979980    
+ Grid Loc:   318.208008       67.7359924    
+ WARNING main: source point off grid            1         814
+ Position:   41.6839981      -85.6979980    
+ Grid Loc:   318.208008       67.7359924    
+ WARNING main: source point off grid            1         815
+ Position:   41.6839981      -85.6979980    
+ Grid Loc:   318.208008       67.7359924    
+ WARNING main: source point off grid            1         821
+ Position:   32.3959999      -92.8550034    
+ Grid Loc:   289.579956       30.5839996    
+ WARNING main: source point off grid            1         822
+ Position:   32.3959999      -92.8550034    
+ Grid Loc:   289.579956       30.5839996    
+ WARNING main: source point off grid            1         823
+ Position:   32.3959999      -92.8550034    
+ Grid Loc:   289.579956       30.5839996    
+ WARNING main: source point off grid            1         824
+ Position:   32.3959999      -92.8550034    
+ Grid Loc:   289.579956       30.5839996    
+ WARNING main: source point off grid            1         825
+ Position:   32.3959999      -92.8550034    
+ Grid Loc:   289.579956       30.5839996    
+ WARNING main: source point off grid            1         831
+ Position:   30.5559998      -81.6309967    
+ Grid Loc:   334.476074       23.2239990    
+ WARNING main: source point off grid            1         832
+ Position:   30.5559998      -81.6309967    
+ Grid Loc:   334.476074       23.2239990    
+ WARNING main: source point off grid            1         833
+ Position:   30.5559998      -81.6309967    
+ Grid Loc:   334.476074       23.2239990    
+ WARNING main: source point off grid            1         834
+ Position:   30.5559998      -81.6309967    
+ Grid Loc:   334.476074       23.2239990    
+ WARNING main: source point off grid            1         835
+ Position:   30.5559998      -81.6309967    
+ Grid Loc:   334.476074       23.2239990    
+ WARNING main: source point off grid            1         836
+ Position:   28.7259998      -82.4270020    
+ Grid Loc:   331.291992       15.9039993    
+ WARNING main: source point off grid            1         837
+ Position:   28.7259998      -82.4270020    
+ Grid Loc:   331.291992       15.9039993    
+ WARNING main: source point off grid            1         838
+ Position:   28.7259998      -82.4270020    
+ Grid Loc:   331.291992       15.9039993    
+ WARNING main: source point off grid            1         839
+ Position:   28.7259998      -82.4270020    
+ Grid Loc:   331.291992       15.9039993    
+ WARNING main: source point off grid            1         840
+ Position:   28.7259998      -82.4270020    
+ Grid Loc:   331.291992       15.9039993    
+ WARNING main: source point off grid            1         841
+ Position:   29.3449993      -83.1090012    
+ Grid Loc:   328.563965       18.3799973    
+ WARNING main: source point off grid            1         842
+ Position:   29.3449993      -83.1090012    
+ Grid Loc:   328.563965       18.3799973    
+ WARNING main: source point off grid            1         843
+ Position:   29.3449993      -83.1090012    
+ Grid Loc:   328.563965       18.3799973    
+ WARNING main: source point off grid            1         844
+ Position:   29.3449993      -83.1090012    
+ Grid Loc:   328.563965       18.3799973    
+ WARNING main: source point off grid            1         845
+ Position:   29.3449993      -83.1090012    
+ Grid Loc:   328.563965       18.3799973    
+ WARNING main: source point off grid            1         946
+ Position:   25.3519993      -107.539001    
+ Grid Loc:   230.843994       2.40799713    
+ WARNING main: source point off grid            1         947
+ Position:   25.3519993      -107.539001    
+ Grid Loc:   230.843994       2.40799713    
+ WARNING main: source point off grid            1         948
+ Position:   25.3519993      -107.539001    
+ Grid Loc:   230.843994       2.40799713    
+ WARNING main: source point off grid            1         949
+ Position:   25.3519993      -107.539001    
+ Grid Loc:   230.843994       2.40799713    
+ WARNING main: source point off grid            1         950
+ Position:   25.3519993      -107.539001    
+ Grid Loc:   230.843994       2.40799713    
+ WARNING main: source point off grid            1         951
+ Position:   27.8470001      -82.5270004    
+ Grid Loc:   330.891968       12.3880005    
+ WARNING main: source point off grid            1         952
+ Position:   27.8470001      -82.5270004    
+ Grid Loc:   330.891968       12.3880005    
+ WARNING main: source point off grid            1         953
+ Position:   27.8470001      -82.5270004    
+ Grid Loc:   330.891968       12.3880005    
+ WARNING main: source point off grid            1         954
+ Position:   27.8470001      -82.5270004    
+ Grid Loc:   330.891968       12.3880005    
+ WARNING main: source point off grid            1         955
+ Position:   27.8470001      -82.5270004    
+ Grid Loc:   330.891968       12.3880005    
+ WARNING main: source point off grid            1        1186
+ Position:   33.4379997      -88.5699997    
+ Grid Loc:   306.719971       34.7519989    
+ WARNING main: source point off grid            1        1187
+ Position:   33.4379997      -88.5699997    
+ Grid Loc:   306.719971       34.7519989    
+ WARNING main: source point off grid            1        1188
+ Position:   33.4379997      -88.5699997    
+ Grid Loc:   306.719971       34.7519989    
+ WARNING main: source point off grid            1        1189
+ Position:   33.4379997      -88.5699997    
+ Grid Loc:   306.719971       34.7519989    
+ WARNING main: source point off grid            1        1190
+ Position:   33.4379997      -88.5699997    
+ Grid Loc:   306.719971       34.7519989    
+ WARNING main: source point off grid            1        1201
+ Position:   28.5930004      -82.4649963    
+ Grid Loc:   331.140015       15.3720016    
+ WARNING main: source point off grid            1        1202
+ Position:   28.5930004      -82.4649963    
+ Grid Loc:   331.140015       15.3720016    
+ WARNING main: source point off grid            1        1203
+ Position:   28.5930004      -82.4649963    
+ Grid Loc:   331.140015       15.3720016    
+ WARNING main: source point off grid            1        1204
+ Position:   28.5930004      -82.4649963    
+ Grid Loc:   331.140015       15.3720016    
+ WARNING main: source point off grid            1        1205
+ Position:   28.5930004      -82.4649963    
+ Grid Loc:   331.140015       15.3720016    
+ WARNING main: source point off grid            1        1231
+ Position:   35.5400009      -84.3330002    
+ Grid Loc:   323.667969       43.1600037    
+ WARNING main: source point off grid            1        1232
+ Position:   35.5400009      -84.3330002    
+ Grid Loc:   323.667969       43.1600037    
+ WARNING main: source point off grid            1        1233
+ Position:   35.5400009      -84.3330002    
+ Grid Loc:   323.667969       43.1600037    
+ WARNING main: source point off grid            1        1234
+ Position:   35.5400009      -84.3330002    
+ Grid Loc:   323.667969       43.1600037    
+ WARNING main: source point off grid            1        1235
+ Position:   35.5400009      -84.3330002    
+ Grid Loc:   323.667969       43.1600037    
+ WARNING main: source point off grid            1        1236
+ Position:   31.0869999      -84.5019989    
+ Grid Loc:   322.991943       25.3479996    
+ WARNING main: source point off grid            1        1237
+ Position:   31.0869999      -84.5019989    
+ Grid Loc:   322.991943       25.3479996    
+ WARNING main: source point off grid            1        1238
+ Position:   31.0869999      -84.5019989    
+ Grid Loc:   322.991943       25.3479996    
+ WARNING main: source point off grid            1        1239
+ Position:   31.0869999      -84.5019989    
+ Grid Loc:   322.991943       25.3479996    
+ WARNING main: source point off grid            1        1240
+ Position:   31.0869999      -84.5019989    
+ Grid Loc:   322.991943       25.3479996    
+ WARNING main: source point off grid            1        1241
+ Position:   30.7639999      -84.1539993    
+ Grid Loc:   324.384033       24.0559998    
+ WARNING main: source point off grid            1        1242
+ Position:   30.7639999      -84.1539993    
+ Grid Loc:   324.384033       24.0559998    
+ WARNING main: source point off grid            1        1243
+ Position:   30.7639999      -84.1539993    
+ Grid Loc:   324.384033       24.0559998    
+ WARNING main: source point off grid            1        1244
+ Position:   30.7639999      -84.1539993    
+ Grid Loc:   324.384033       24.0559998    
+ WARNING main: source point off grid            1        1245
+ Position:   30.7639999      -84.1539993    
+ Grid Loc:   324.384033       24.0559998    
+ WARNING main: source point off grid            1        1246
+ Position:   30.3430004      -83.0370026    
+ Grid Loc:   328.852051       22.3720016    
+ WARNING main: source point off grid            1        1247
+ Position:   30.3430004      -83.0370026    
+ Grid Loc:   328.852051       22.3720016    
+ WARNING main: source point off grid            1        1248
+ Position:   30.3430004      -83.0370026    
+ Grid Loc:   328.852051       22.3720016    
+ WARNING main: source point off grid            1        1249
+ Position:   30.3430004      -83.0370026    
+ Grid Loc:   328.852051       22.3720016    
+ WARNING main: source point off grid            1        1250
+ Position:   30.3430004      -83.0370026    
+ Grid Loc:   328.852051       22.3720016    
+ WARNING main: source point off grid            1        1251
+ Position:   30.3500004      -82.4079971    
+ Grid Loc:   331.368042       22.4000015    
+ WARNING main: source point off grid            1        1252
+ Position:   30.3500004      -82.4079971    
+ Grid Loc:   331.368042       22.4000015    
+ WARNING main: source point off grid            1        1253
+ Position:   30.3500004      -82.4079971    
+ Grid Loc:   331.368042       22.4000015    
+ WARNING main: source point off grid            1        1254
+ Position:   30.3500004      -82.4079971    
+ Grid Loc:   331.368042       22.4000015    
+ WARNING main: source point off grid            1        1255
+ Position:   30.3500004      -82.4079971    
+ Grid Loc:   331.368042       22.4000015    
+ WARNING main: source point off grid            1        1256
+ Position:   29.7329998      -81.8119965    
+ Grid Loc:   333.751953       19.9319992    
+ WARNING main: source point off grid            1        1257
+ Position:   29.7329998      -81.8119965    
+ Grid Loc:   333.751953       19.9319992    
+ WARNING main: source point off grid            1        1258
+ Position:   29.7329998      -81.8119965    
+ Grid Loc:   333.751953       19.9319992    
+ WARNING main: source point off grid            1        1259
+ Position:   29.7329998      -81.8119965    
+ Grid Loc:   333.751953       19.9319992    
+ WARNING main: source point off grid            1        1260
+ Position:   29.7329998      -81.8119965    
+ Grid Loc:   333.751953       19.9319992    
+ WARNING main: source point off grid            1        1261
+ Position:   26.8600006      -81.4130020    
+ Grid Loc:   335.348022       8.44000244    
+ WARNING main: source point off grid            1        1262
+ Position:   26.8600006      -81.4130020    
+ Grid Loc:   335.348022       8.44000244    
+ WARNING main: source point off grid            1        1263
+ Position:   26.8600006      -81.4130020    
+ Grid Loc:   335.348022       8.44000244    
+ WARNING main: source point off grid            1        1264
+ Position:   26.8600006      -81.4130020    
+ Grid Loc:   335.348022       8.44000244    
+ WARNING main: source point off grid            1        1265
+ Position:   26.8600006      -81.4130020    
+ Grid Loc:   335.348022       8.44000244    
+ WARNING main: source point off grid            1        1266
+ Position:   30.5709991      -87.2009964    
+ Grid Loc:   312.196045       23.2839966    
+ WARNING main: source point off grid            1        1267
+ Position:   30.5709991      -87.2009964    
+ Grid Loc:   312.196045       23.2839966    
+ WARNING main: source point off grid            1        1268
+ Position:   30.5709991      -87.2009964    
+ Grid Loc:   312.196045       23.2839966    
+ WARNING main: source point off grid            1        1269
+ Position:   30.5709991      -87.2009964    
+ Grid Loc:   312.196045       23.2839966    
+ WARNING main: source point off grid            1        1270
+ Position:   30.5709991      -87.2009964    
+ Grid Loc:   312.196045       23.2839966    
+ WARNING main: source point off grid            1        1381
+ Position:   41.1339989      -80.6869965    
+ Grid Loc:   338.251953       65.5359955    
+ WARNING main: source point off grid            1        1382
+ Position:   41.1339989      -80.6869965    
+ Grid Loc:   338.251953       65.5359955    
+ WARNING main: source point off grid            1        1383
+ Position:   41.1339989      -80.6869965    
+ Grid Loc:   338.251953       65.5359955    
+ WARNING main: source point off grid            1        1384
+ Position:   41.1339989      -80.6869965    
+ Grid Loc:   338.251953       65.5359955    
+ WARNING main: source point off grid            1        1385
+ Position:   41.1339989      -80.6869965    
+ Grid Loc:   338.251953       65.5359955    
+  
+ HYSPLIT4
+ Last Changed Rev: 504
+ Last Changed Date: 2013-07-10 10:25:26 -0700 (Wed, 10 Jul 2013)
+ 
+ ------------- Start Namelist configuration -------------------
+ Internal grid parameters (nlvl,aa,bb,cc):           26   15.0000000      -5.00000000       0.00000000    
+&SETUP
+ INITD=1          ,
+ KHMAX=168        ,
+ NUMPAR=2500       ,
+ MAXPAR=630000     ,
+ MAXDIM=1          ,
+ QCYCLE=  1.00000000    ,
+ P10F=  1.00000000    ,
+ KMIXD=0          ,
+ KMIX0=250        ,
+ FRME= 0.100000001    ,
+ FRMR=  0.00000000    ,
+ KRND=6          ,
+ DELT= -3.00000000    ,
+ KDEF=0          ,
+ TKERD= 0.180000007    ,
+ TKERN= 0.180000007    ,
+ NDUMP=24         ,
+ NCYCL=24         ,
+ TRATIO= 0.750000000    ,
+ ISOT=-99        ,
+ MGMIN=750        ,
+ KMSL=0          ,
+ NSTR=0          ,
+ MHRS=0          ,
+ NVER=0          ,
+ CPACK=1          ,
+ CMASS=0          ,
+ ICHEM=0          ,
+ EFILE="EMISS.CFG                                                                       ",
+ VSCALE=  200.000000    ,
+ VSCALES=  200.000000    ,
+ VSCALEU=  200.000000    ,
+ K10M=1          ,
+ VDIST="VMSDIST                                                                         ",
+ TOUT=0          ,
+ TM_PRES=0          ,
+ TM_TPOT=0          ,
+ TM_TAMB=0          ,
+ TM_RAIN=0          ,
+ TM_MIXD=0          ,
+ TM_TERR=0          ,
+ HSCALE=  10800.0000    ,
+ TM_DSWF=0          ,
+ TM_RELH=0          ,
+ TM_SPHU=0          ,
+ TM_MIXR=0          ,
+ DXF=  1.00000000    ,
+ DYF=  1.00000000    ,
+ DZF=  9.99999978E-03,
+ PINPF="PARINIT                                                                         ",
+ POUTF="/bluesky/bluesky-hysplit/dev/BSC00CA31-WD/outputwet8/2019052400/PARDUMP.005     ",
+ NINIT=0          ,
+ KAGL=0          ,
+ KPUFF=0          ,
+ KBLT=2          ,
+ KZMIX=0          ,
+ TVMIX=  1.00000000    ,
+ KBLS=1          ,
+ CONAGE=48         ,
+ KSPL=1          ,
+ FRHS=  1.00000000    ,
+ FRVS=  9.99999978E-03,
+ FRTS= 0.100000001    ,
+ FRHMAX=  3.00000000    ,
+ SPLITF=  1.00000000    ,
+ MESSG="MESSAGE                                                                         ",
+ NBPTYP=1          ,
+ RHB=80         ,
+ RHT=60         ,
+ OUTDT=0          ,
+ DECAY=1          ,
+ KWET=1          ,
+ KRAND=1          ,
+ /
+ ------------- End Namelist configuration -------------------
+  
+  NOTICE   main: pollutant initialization flags
+      Wet deposition -  T
+       Grav settling -  T
+  NOTICE   main: meteorological data flags
+     Ten meter wind -  T
+     Two meter temp -  T
+     Exchange coeff -  F
+          Heat flux -  F
+      Momentum flux -  F
+  Velocity variance -  F
+       3D TKE field -  F
+     Down shortwave -  T
+  Friction velocity -  F
+      Friction temp -  F
+     Terrain height -  T
+   Surface pressure -  T
+  Mixed layer depth -  T
+  Profile averaging -            0
+   Stability method -            2
+  Horizontal mixing -            0
+  PBL mixing scheme -            2
+   Free Trop Mixing -    1.00000000    
+  Precip accumulate -           60
+ ------------- Start computation messages -------------------
+  NOTICE metpos: (mtime,ftime) -     62794080           0
+  NOTICE metpos: (mtime,ftime) -     62794140           0
+  NOTICE advpnt: (kg,nx,ny,nz) -            1         281         201          26
+  NOTICE sfcinp: reading ASCDATA.CFG
+  NOTICE sfcinp: record terminator = CR/LF
+  NOTICE metgrd: (kg, xyr,xy1) -            1         281         201           1           1
+  NOTICE metinp: ERA5           1           1         281         201           1           1    62794080          19           5          24           0
+  NOTICE metinp: ERA5           1         272         281         201           1           1    62794140          19           5          24           1
+  NOTICE   main: Initial time step (min)            4
+  NOTICE emsmat: opened emission file - EMISS.CFG                               
+  NOTICE emsmat: emissions updated -           19           5          24           0
+  NOTICE emrise: (mixd,rise) -         2011           0
+  NOTICE   main:            1    62794084         131   4769539.00    
+  NOTICE   main:            1    62794088         262   9532865.00    
+  NOTICE   main:            1    62794092         393   14290113.0    
+  NOTICE   main:            1    62794096         524   19041578.0    
+  NOTICE   main:            1    62794100         655   23787512.0    
+  NOTICE   main:            1    62794104         786   28530636.0    
+  NOTICE   main:            1    62794108         917   33273950.0    
+  NOTICE   main:            1    62794112        1048   38017460.0    
+  NOTICE   main:            1    62794116        1179   42761348.0    
+  NOTICE   main:            1    62794120        1310   47508788.0    
+  NOTICE   main:            1    62794124        1441   52254076.0    
+  NOTICE   main:            1    62794128        1572   56998040.0    
+  NOTICE   main:            1    62794132        1703   61740808.0    
+  NOTICE   main:            1    62794136        1834   66482384.0    
+  NOTICE   main:            1    62794140        1965   71220048.0    
+  NOTICE   main: split stopped array limit reached
+  NOTICE   main: merge increased FRHS=   1.50000000    
+  NOTICE   main: split changed SPLITF=   1.48329592    
+  NOTICE emsmat: emissions updated -           19           5          24           1
+  NOTICE metpos: (mtime,ftime) -     62794200    62794080
+  NOTICE metinp: ERA5           1         543         281         201           1           1    62794200          19           5          24           2
+  NOTICE emrise: (mixd,rise) -         1389           0
+  NOTICE   main:            2    62794144        1856   74139640.0    
+  NOTICE   main:            2    62794148        1987   77052000.0    
+  NOTICE   main:            2    62794152        2118   79957552.0    
+  NOTICE   main:            2    62794156        2249   82855008.0    
+  NOTICE   main:            2    62794160        2380   85745960.0    
+  NOTICE   main:            2    62794164        2511   88630064.0    
+  NOTICE   main:            2    62794168        2642   91505616.0    
+  NOTICE   main:            2    62794172        2773   94372176.0    
+  NOTICE   main:            2    62794176        2904   97230920.0    
+  NOTICE   main:            2    62794180        3035   100064440.    
+  NOTICE   main:            2    62794184        3166   102882816.    
+  NOTICE   main:            2    62794188        3297   105691016.    
+  NOTICE   main:            2    62794192        3428   108484136.    
+  NOTICE   main:            2    62794196        3559   111268768.    
+  NOTICE   main:            2    62794200        3690   114052280.    
+  NOTICE emsmat: emissions updated -           19           5          24           2
+  NOTICE metpos: (mtime,ftime) -     62794260    62794140
+  NOTICE metinp: ERA5           1         814         281         201           1           1    62794260          19           5          24           3
+  NOTICE emrise: (mixd,rise) -          775           1
+  NOTICE   main:            3    62794204        3581   115803408.    
+  NOTICE   main:            3    62794208        3712   117550672.    
+  NOTICE   main:            3    62794212        3843   119297888.    
+  NOTICE   main:            3    62794216        3974   121049232.    
+  NOTICE   main:            3    62794220        4105   122791608.    
+  NOTICE   main:            3    62794224        4236   124526808.    
+  NOTICE   main:            3    62794228        4367   126251640.    
+  NOTICE   main:            3    62794232        4498   127968512.    
+  NOTICE   main:            3    62794236        4629   129677152.    
+  NOTICE   main:            3    62794240        4760   131380984.    
+  NOTICE   main:            3    62794244        4891   133084264.    
+  NOTICE   main:            3    62794248        5022   134786224.    
+  NOTICE   main:            3    62794252        5153   136481296.    
+  NOTICE   main:            3    62794256        5284   138170496.    
+  NOTICE   main:            3    62794260        5415   139854960.    
+  NOTICE emsmat: emissions updated -           19           5          24           3
+  NOTICE metpos: (mtime,ftime) -     62794320    62794200
+  NOTICE metinp: ERA5           1        1085         281         201           1           1    62794320          19           5          24           4
+  NOTICE emrise: (mixd,rise) -          392           0
+  NOTICE   main:            4    62794263        5216   140300320.    
+  NOTICE   main:            4    62794266        5347   140752400.    
+  NOTICE   main:            4    62794269        5478   141210656.    
+  NOTICE   main:            4    62794272        5609   141672576.    
+  NOTICE   main:            4    62794275        5740   142137616.    
+  NOTICE   main:            4    62794278        5871   142603664.    
+  NOTICE   main:            4    62794281        6002   143070624.    
+  NOTICE   main:            4    62794284        6133   143538240.    
+  NOTICE   main:            4    62794287        6264   144006416.    
+  NOTICE   main:            4    62794290        6395   144474880.    
+  NOTICE   main:            4    62794293        6526   144944320.    
+  NOTICE   main:            4    62794296        6657   145412608.    
+  NOTICE   main:            4    62794299        6788   145881984.    
+  NOTICE   main:            4    62794302        6919   146351424.    
+  NOTICE   main:            4    62794305        7050   146820192.    
+  NOTICE   main:            4    62794308        7181   147288496.    
+  NOTICE   main:            4    62794311        7312   147757440.    
+  NOTICE   main:            4    62794314        7443   148225856.    
+  NOTICE   main:            4    62794317        7574   148693936.    
+  NOTICE   main:            4    62794320        7705   149161616.    
+  NOTICE emsmat: emissions updated -           19           5          24           4
+  NOTICE metpos: (mtime,ftime) -     62794380    62794260
+  NOTICE metinp: ERA5           1        1356         281         201           1           1    62794380          19           5          24           5
+  NOTICE emrise: (mixd,rise) -          350           0
+  NOTICE   main:            5    62794323        7216   149517520.    
+  NOTICE   main:            5    62794326        7347   149874464.    
+  NOTICE   main:            5    62794329        7478   150229776.    
+  NOTICE   main:            5    62794332        7609   150585872.    
+  NOTICE   main:            5    62794335        7740   150941920.    
+ WARNING metpos: off spatial domain of all grids
+  NOTICE   main:            5    62794338        7871   151293840.    
+  NOTICE   main:            5    62794341        8002   151648192.    
+  NOTICE   main:            5    62794344        8133   152001680.    
+  NOTICE   main:            5    62794347        8264   152355616.    
+  NOTICE   main:            5    62794350        8395   152707984.    
+  NOTICE   main:            5    62794353        8526   153061040.    
+  NOTICE   main:            5    62794356        8657   153412784.    
+  NOTICE   main:            5    62794359        8788   153763872.    
+  NOTICE   main:            5    62794362        8919   154113088.    
+  NOTICE   main:            5    62794365        9050   154462064.    
+  NOTICE   main:            5    62794368        9181   154808832.    
+  NOTICE   main:            5    62794371        9312   155146848.    
+  NOTICE   main:            5    62794374        9443   155479072.    
+  NOTICE   main:            5    62794377        9574   155803280.    
+  NOTICE   main:            5    62794380        9705   156118592.    
+  NOTICE emsmat: emissions updated -           19           5          24           5
+  NOTICE metpos: (mtime,ftime) -     62794440    62794320
+  NOTICE metinp: ERA5           1        1627         281         201           1           1    62794440          19           5          24           6
+  NOTICE emrise: (mixd,rise) -          307           0
+  NOTICE   main:            6    62794383        9189   156347376.    
+  NOTICE   main:            6    62794386        9320   156575824.    
+  NOTICE   main:            6    62794389        9451   156802112.    
+  NOTICE   main:            6    62794392        9582   157027408.    
+  NOTICE   main:            6    62794395        9713   157251952.    
+  NOTICE   main:            6    62794398        9844   157474080.    
+  NOTICE   main:            6    62794401        9975   157694912.    
+  NOTICE   main:            6    62794404       10106   157913984.    
+  NOTICE   main:            6    62794407       10237   158133024.    
+  NOTICE   main:            6    62794410       10368   158349584.    
+  NOTICE   main:            6    62794413       10499   158565552.    
+  NOTICE   main:            6    62794416       10630   158780432.    
+  NOTICE   main:            6    62794419       10761   158994192.    
+  NOTICE   main:            6    62794422       10892   159206048.    
+  NOTICE   main:            6    62794425       11023   159415696.    
+  NOTICE   main:            6    62794428       11154   159625504.    
+  NOTICE   main:            6    62794431       11285   159831472.    
+  NOTICE   main:            6    62794434       11416   160034400.    
+  NOTICE   main:            6    62794437       11547   160232208.    
+  NOTICE   main:            6    62794440       11678   160427248.    
+                                                        Index  Height %Mass
+                                                           20  5900.0  0.01
+                                                           19  5320.0  0.01
+                                                           18  4770.0  0.01
+                                                           17  4250.0  0.01
+                                                           16  3760.0  0.07
+                                                           15  3300.0  0.24
+                                                           14  2870.0  2.56
+                                                           13  2470.0  3.05
+                                                           12  2100.0  4.48
+                                                           11  1760.0  5.08
+                                                           10  1450.0  5.67
+                                                            9  1170.0  6.28
+                                                            8   920.0  6.93
+                                                            7   700.0  7.29
+                                                            6   510.0  7.46
+                                                            5   350.0  7.82
+                                                            4   220.0  8.31
+                                                            3   120.0  7.81
+                                                            2    50.0  9.04
+                                                            1    10.0 17.88
+  NOTICE emsmat: emissions updated -           19           5          24           6
+  NOTICE metpos: (mtime,ftime) -     62794500    62794380
+  NOTICE metinp: ERA5           1        1898         281         201           1           1    62794500          19           5          24           7
+  NOTICE emrise: (mixd,rise) -          296           0
+  NOTICE   main:            7    62794443       11009   160612992.    
+  NOTICE   main:            7    62794446       11140   160816720.    
+  NOTICE   main:            7    62794449       11271   161026768.    
+  NOTICE   main:            7    62794452       11402   161239648.    
+  NOTICE   main:            7    62794455       11533   161455056.    
+  NOTICE   main:            7    62794458       11664   161669648.    
+  NOTICE   main:            7    62794461       11795   161886320.    
+  NOTICE   main:            7    62794464       11926   162102576.    
+  NOTICE   main:            7    62794467       12057   162320352.    
+  NOTICE   main:            7    62794470       12188   162537440.    
+  NOTICE   main:            7    62794473       12319   162754464.    
+  NOTICE   main:            7    62794476       12450   162970176.    
+  NOTICE   main:            7    62794479       12581   163186544.    
+  NOTICE   main:            7    62794482       12712   163402448.    
+  NOTICE   main:            7    62794485       12843   163619360.    
+  NOTICE   main:            7    62794488       12974   163835904.    
+  NOTICE   main:            7    62794491       13105   164052096.    
+  NOTICE   main:            7    62794494       13236   164268528.    
+  NOTICE   main:            7    62794497       13367   164484384.    
+  NOTICE   main:            7    62794500       13498   164701904.    
+  NOTICE emsmat: emissions updated -           19           5          24           7
+  NOTICE metpos: (mtime,ftime) -     62794560    62794440
+  NOTICE metinp: ERA5           1        2169         281         201           1           1    62794560          19           5          24           8
+  NOTICE emrise: (mixd,rise) -          296           0
+  NOTICE   main:            8    62794503       12088   164641680.    
+  NOTICE   main:            8    62794506       12219   164582000.    
+  NOTICE   main:            8    62794509       12350   164523440.    
+  NOTICE   main:            8    62794512       12481   164466000.    
+  NOTICE   main:            8    62794515       12612   164409408.    
+  NOTICE   main:            8    62794518       12743   164353712.    
+  NOTICE   main:            8    62794521       12874   164298896.    
+  NOTICE   main:            8    62794524       13005   164245888.    
+  NOTICE   main:            8    62794527       13136   164193904.    
+  NOTICE   main:            8    62794530       13267   164143168.    
+  NOTICE   main:            8    62794533       13398   164092256.    
+  NOTICE   main:            8    62794536       13529   164042848.    
+  NOTICE   main:            8    62794539       13660   163993872.    
+  NOTICE   main:            8    62794542       13791   163946160.    
+  NOTICE   main:            8    62794545       13922   163899840.    
+  NOTICE   main:            8    62794548       14053   163854448.    
+  NOTICE   main:            8    62794551       14184   163809712.    
+  NOTICE   main:            8    62794554       14315   163766016.    
+  NOTICE   main:            8    62794557       14446   163722720.    
+  NOTICE   main:            8    62794560       14577   163680192.    
+  NOTICE emsmat: emissions updated -           19           5          24           8
+  NOTICE metpos: (mtime,ftime) -     62794620    62794500
+  NOTICE metinp: ERA5           1        2440         281         201           1           1    62794620          19           5          24           9
+  NOTICE emrise: (mixd,rise) -          293           0
+  NOTICE   main:            9    62794563       12569   163610144.    
+  NOTICE   main:            9    62794566       12700   163544320.    
+  NOTICE   main:            9    62794569       12831   163481616.    
+  NOTICE   main:            9    62794572       12962   163423600.    
+  NOTICE   main:            9    62794575       13093   163370592.    
+  NOTICE   main:            9    62794578       13224   163318944.    
+  NOTICE   main:            9    62794581       13355   163269200.    
+  NOTICE   main:            9    62794584       13486   163220896.    
+  NOTICE   main:            9    62794587       13617   163176976.    
+  NOTICE   main:            9    62794590       13748   163134880.    
+  NOTICE   main:            9    62794593       13879   163093776.    
+  NOTICE   main:            9    62794596       14010   163053312.    
+  NOTICE   main:            9    62794599       14141   163014176.    
+  NOTICE   main:            9    62794602       14272   162974800.    
+  NOTICE   main:            9    62794605       14403   162936112.    
+  NOTICE   main:            9    62794608       14534   162893936.    
+  NOTICE   main:            9    62794611       14665   162851104.    
+  NOTICE   main:            9    62794614       14796   162808208.    
+  NOTICE   main:            9    62794617       14927   162765952.    
+  NOTICE   main:            9    62794620       15058   162722080.    
+  NOTICE emsmat: emissions updated -           19           5          24           9
+  NOTICE metpos: (mtime,ftime) -     62794680    62794560
+  NOTICE metinp: ERA5           1        2711         281         201           1           1    62794680          19           5          24          10
+  NOTICE emrise: (mixd,rise) -          287           0
+  NOTICE   main:           10    62794623       12953   162660320.    
+  NOTICE   main:           10    62794626       13084   162599152.    
+  NOTICE   main:           10    62794629       13215   162538528.    
+  NOTICE   main:           10    62794632       13346   162484656.    
+  NOTICE   main:           10    62794635       13477   162431088.    
+  NOTICE   main:           10    62794638       13608   162383664.    
+  NOTICE   main:           10    62794641       13739   162339440.    
+  NOTICE   main:           10    62794644       13870   162295424.    
+  NOTICE   main:           10    62794647       14001   162253120.    
+  NOTICE   main:           10    62794650       14132   162210240.    
+  NOTICE   main:           10    62794653       14263   162168160.    
+  NOTICE   main:           10    62794656       14394   162128272.    
+  NOTICE   main:           10    62794659       14525   162088800.    
+  NOTICE   main:           10    62794662       14656   162051904.    
+  NOTICE   main:           10    62794665       14787   162016880.    
+  NOTICE   main:           10    62794668       14918   161983760.    
+  NOTICE   main:           10    62794671       15049   161950640.    
+  NOTICE   main:           10    62794674       15180   161918720.    
+  NOTICE   main:           10    62794677       15311   161886592.    
+  NOTICE   main:           10    62794680       15442   161855152.    
+  NOTICE emsmat: emissions updated -           19           5          24          10
+  NOTICE metpos: (mtime,ftime) -     62794740    62794620
+  NOTICE metinp: ERA5           1        2982         281         201           1           1    62794740          19           5          24          11
+  NOTICE emrise: (mixd,rise) -          296           0
+  NOTICE   main:           11    62794683       13262   161798576.    
+  NOTICE   main:           11    62794686       13393   161744000.    
+  NOTICE   main:           11    62794689       13524   161692784.    
+  NOTICE   main:           11    62794692       13655   161641440.    
+  NOTICE   main:           11    62794695       13786   161591712.    
+  NOTICE   main:           11    62794698       13917   161542304.    
+  NOTICE   main:           11    62794701       14048   161495984.    
+  NOTICE   main:           11    62794704       14179   161454048.    
+  NOTICE   main:           11    62794707       14310   161412800.    
+  NOTICE   main:           11    62794710       14441   161373216.    
+  NOTICE   main:           11    62794713       14572   161334064.    
+  NOTICE   main:           11    62794716       14703   161294912.    
+  NOTICE   main:           11    62794719       14834   161260176.    
+  NOTICE   main:           11    62794722       14965   161226848.    
+  NOTICE   main:           11    62794725       15096   161196096.    
+  NOTICE   main:           11    62794728       15227   161167600.    
+  NOTICE   main:           11    62794731       15358   161135280.    
+  NOTICE   main:           11    62794734       15489   161104256.    
+  NOTICE   main:           11    62794737       15620   161069600.    
+  NOTICE   main:           11    62794740       15751   161034480.    
+  NOTICE emsmat: emissions updated -           19           5          24          11
+  NOTICE metpos: (mtime,ftime) -     62794800    62794680
+  NOTICE metinp: ERA5           1        3253         281         201           1           1    62794800          19           5          24          12
+  NOTICE emrise: (mixd,rise) -          298           0
+  NOTICE   main:           12    62794743       13538   161005936.    
+  NOTICE   main:           12    62794746       13669   160982336.    
+  NOTICE   main:           12    62794749       13800   160954800.    
+  NOTICE   main:           12    62794752       13931   160929552.    
+  NOTICE   main:           12    62794755       14062   160908128.    
+  NOTICE   main:           12    62794758       14193   160882864.    
+  NOTICE   main:           12    62794761       14324   160861136.    
+  NOTICE   main:           12    62794764       14455   160836032.    
+  NOTICE   main:           12    62794767       14586   160815328.    
+  NOTICE   main:           12    62794770       14717   160794848.    
+  NOTICE   main:           12    62794773       14848   160770544.    
+  NOTICE   main:           12    62794776       14979   160751792.    
+  NOTICE   main:           12    62794779       15110   160728240.    
+  NOTICE   main:           12    62794782       15241   160709632.    
+  NOTICE   main:           12    62794785       15372   160690576.    
+  NOTICE   main:           12    62794788       15503   160667520.    
+  NOTICE   main:           12    62794791       15634   160648192.    
+  NOTICE   main:           12    62794794       15765   160625760.    
+  NOTICE   main:           12    62794797       15896   160608032.    
+  NOTICE   main:           12    62794800       16027   160586816.    
+                                                        Index  Height %Mass
+                                                           26 10010.0  0.00
+                                                           25  9250.0  0.01
+                                                           24  8520.0  0.01
+                                                           23  7820.0  0.01
+                                                           22  7150.0  0.01
+                                                           21  6510.0  0.00
+                                                           20  5900.0  0.00
+                                                           19  5320.0  0.00
+                                                           18  4770.0  0.00
+                                                           17  4250.0  0.01
+                                                           16  3760.0  0.52
+                                                           15  3300.0  0.75
+                                                           14  2870.0  3.13
+                                                           13  2470.0  3.59
+                                                           12  2100.0  4.05
+                                                           11  1760.0  5.90
+                                                           10  1450.0  6.45
+                                                            9  1170.0  6.77
+                                                            8   920.0  6.91
+                                                            7   700.0  7.03
+                                                            6   510.0  6.72
+                                                            5   350.0  6.12
+                                                            4   220.0 12.21
+                                                            3   120.0 10.66
+                                                            2    50.0 10.10
+                                                            1    10.0  9.05
+  NOTICE emsmat: emissions updated -           19           5          24          12
+  NOTICE metpos: (mtime,ftime) -     62794860    62794740
+  NOTICE metinp: ERA5           1        3524         281         201           1           1    62794860          19           5          24          13
+  NOTICE emrise: (mixd,rise) -          306           0
+  NOTICE   main:           13    62794803       13782   160564368.    
+  NOTICE   main:           13    62794806       13913   160537968.    
+  NOTICE   main:           13    62794809       14044   160516720.    
+  NOTICE   main:           13    62794812       14175   160499312.    
+  NOTICE   main:           13    62794815       14306   160482576.    
+  NOTICE   main:           13    62794818       14437   160461472.    
+  NOTICE   main:           13    62794821       14568   160438736.    
+  NOTICE   main:           13    62794824       14699   160422640.    
+  NOTICE   main:           13    62794827       14830   160406624.    
+  NOTICE   main:           13    62794830       14961   160376448.    
+  NOTICE   main:           13    62794833       15092   160331184.    
+  NOTICE   main:           13    62794836       15223   160301520.    
+  NOTICE   main:           13    62794839       15354   160273536.    
+  NOTICE   main:           13    62794842       15485   160253760.    
+  NOTICE   main:           13    62794845       15616   160238128.    
+  NOTICE   main:           13    62794848       15747   160212576.    
+  NOTICE   main:           13    62794851       15878   160192752.    
+  NOTICE   main:           13    62794854       16009   160162704.    
+  NOTICE   main:           13    62794857       16140   160150848.    
+  NOTICE   main:           13    62794860       16271   160132384.    
+  NOTICE emsmat: emissions updated -           19           5          24          13
+  NOTICE metpos: (mtime,ftime) -     62794920    62794800
+  NOTICE metinp: ERA5           1        3795         281         201           1           1    62794920          19           5          24          14
+  NOTICE emrise: (mixd,rise) -          320           0
+  NOTICE   main:           14    62794863       13981   159788160.    
+  NOTICE   main:           14    62794866       14112   159455968.    
+  NOTICE   main:           14    62794869       14243   159142224.    
+  NOTICE   main:           14    62794872       14374   158864192.    
+  NOTICE   main:           14    62794875       14505   158613376.    
+  NOTICE   main:           14    62794878       14636   158382432.    
+  NOTICE   main:           14    62794881       14767   158170336.    
+  NOTICE   main:           14    62794884       14898   157969792.    
+  NOTICE   main:           14    62794887       15029   157792432.    
+  NOTICE   main:           14    62794890       15160   157622464.    
+  NOTICE   main:           14    62794893       15291   157457536.    
+  NOTICE   main:           14    62794896       15422   157296912.    
+  NOTICE   main:           14    62794899       15553   157137264.    
+  NOTICE   main:           14    62794902       15684   156981680.    
+  NOTICE   main:           14    62794905       15815   156829264.    
+  NOTICE   main:           14    62794908       15946   156690448.    
+  NOTICE   main:           14    62794911       16077   156554592.    
+  NOTICE   main:           14    62794914       16208   156426896.    
+  NOTICE   main:           14    62794917       16339   156305312.    
+  NOTICE   main:           14    62794920       16470   156195456.    
+  NOTICE emsmat: emissions updated -           19           5          24          14
+  NOTICE metpos: (mtime,ftime) -     62794980    62794860
+  NOTICE metinp: ERA5           1        4066         281         201           1           1    62794980          19           5          24          15
+  NOTICE emrise: (mixd,rise) -          360           0
+  NOTICE   main:           15    62794923       14167   155922016.    
+  NOTICE   main:           15    62794926       14298   155655408.    
+  NOTICE   main:           15    62794929       14429   155392032.    
+  NOTICE   main:           15    62794932       14560   155133856.    
+  NOTICE   main:           15    62794935       14691   154880864.    
+  NOTICE   main:           15    62794938       14822   154630912.    
+  NOTICE   main:           15    62794941       14953   154384368.    
+  NOTICE   main:           15    62794944       15084   154136784.    
+  NOTICE   main:           15    62794947       15215   153896128.    
+  NOTICE   main:           15    62794950       15346   153656976.    
+  NOTICE   main:           15    62794953       15477   153424992.    
+  NOTICE   main:           15    62794956       15608   153202688.    
+  NOTICE   main:           15    62794959       15739   152987072.    
+  NOTICE   main:           15    62794962       15870   152769376.    
+  NOTICE   main:           15    62794965       16001   152557664.    
+  NOTICE   main:           15    62794968       16132   152363968.    
+  NOTICE   main:           15    62794971       16263   152172352.    
+  NOTICE   main:           15    62794974       16394   151982832.    
+  NOTICE   main:           15    62794977       16525   151798304.    
+  NOTICE   main:           15    62794980       16656   151614720.    
+  NOTICE emsmat: emissions updated -           19           5          24          15
+  NOTICE metpos: (mtime,ftime) -     62795040    62794920
+  NOTICE metinp: ERA5           1        4337         281         201           1           1    62795040          19           5          24          16
+  NOTICE emrise: (mixd,rise) -          521           0
+  NOTICE   main:           16    62794983       14411   151375968.    
+  NOTICE   main:           16    62794986       14542   151144784.    
+  NOTICE   main:           16    62794989       14673   150928208.    
+  NOTICE   main:           16    62794992       14804   150716192.    
+  NOTICE   main:           16    62794995       14935   150511376.    
+  NOTICE   main:           16    62794998       15066   150319936.    
+  NOTICE   main:           16    62795001       15197   150129520.    
+  NOTICE   main:           16    62795004       15328   149941856.    
+  NOTICE   main:           16    62795007       15459   149768016.    
+  NOTICE   main:           16    62795010       15590   149589936.    
+  NOTICE   main:           16    62795013       15721   149408400.    
+  NOTICE   main:           16    62795016       15852   149217520.    
+  NOTICE   main:           16    62795019       15983   149023760.    
+  NOTICE   main:           16    62795022       16114   148832736.    
+  NOTICE   main:           16    62795025       16245   148620000.    
+  NOTICE   main:           16    62795028       16376   148433664.    
+  NOTICE   main:           16    62795031       16507   148251104.    
+  NOTICE   main:           16    62795034       16638   148071104.    
+  NOTICE   main:           16    62795037       16769   147900384.    
+  NOTICE   main:           16    62795040       16900   147731792.    
+  NOTICE emsmat: emissions updated -           19           5          24          16
+  NOTICE metpos: (mtime,ftime) -     62795100    62794980
+  NOTICE metinp: ERA5           1        4608         281         201           1           1    62795100          19           5          24          17
+  NOTICE emrise: (mixd,rise) -          868           0
+  NOTICE   main:           17    62795043       14592   147623248.    
+  NOTICE   main:           17    62795046       14723   147513664.    
+  NOTICE   main:           17    62795049       14854   147402544.    
+  NOTICE   main:           17    62795052       14985   147285072.    
+  NOTICE   main:           17    62795055       15116   147178944.    
+  NOTICE   main:           17    62795058       15247   147083200.    
+  NOTICE   main:           17    62795061       15378   146989952.    
+  NOTICE   main:           17    62795064       15509   146902480.    
+  NOTICE   main:           17    62795067       15640   146808464.    
+  NOTICE   main:           17    62795070       15771   146717824.    
+  NOTICE   main:           17    62795073       15902   146646080.    
+  NOTICE   main:           17    62795076       16033   146574064.    
+  NOTICE   main:           17    62795079       16164   146498976.    
+  NOTICE   main:           17    62795082       16295   146422256.    
+  NOTICE   main:           17    62795085       16426   146346000.    
+  NOTICE   main:           17    62795088       16557   146272896.    
+  NOTICE   main:           17    62795091       16688   146181920.    
+  NOTICE   main:           17    62795094       16819   146107520.    
+  NOTICE   main:           17    62795097       16950   146037184.    
+  NOTICE   main:           17    62795100       17081   145965648.    
+  NOTICE emsmat: emissions updated -           19           5          24          17
+  NOTICE metpos: (mtime,ftime) -     62795160    62795040
+  NOTICE metinp: ERA5           1        4879         281         201           1           1    62795160          19           5          24          18
+  NOTICE emrise: (mixd,rise) -         1167           0
+  NOTICE   main:           18    62795103       14802   145844048.    
+  NOTICE   main:           18    62795106       14933   145718992.    
+  NOTICE   main:           18    62795109       15064   145595440.    
+  NOTICE   main:           18    62795112       15195   145474720.    
+  NOTICE   main:           18    62795115       15326   145359904.    
+  NOTICE   main:           18    62795118       15457   145241904.    
+  NOTICE   main:           18    62795121       15588   145129072.    
+  NOTICE   main:           18    62795124       15719   145016976.    
+  NOTICE   main:           18    62795127       15850   144907120.    
+  NOTICE   main:           18    62795130       15981   144807824.    
+  NOTICE   main:           18    62795133       16112   144713776.    
+  NOTICE   main:           18    62795136       16243   144633184.    
+  NOTICE   main:           18    62795139       16374   144541184.    
+  NOTICE   main:           18    62795142       16505   144450704.    
+  NOTICE   main:           18    62795145       16636   144368672.    
+  NOTICE   main:           18    62795148       16767   144283584.    
+  NOTICE   main:           18    62795151       16898   144201536.    
+  NOTICE   main:           18    62795154       17029   144126224.    
+  NOTICE   main:           18    62795157       17160   144051568.    
+  NOTICE   main:           18    62795160       17291   143975552.    
+                                                        Index  Height %Mass
+                                                           21  6510.0  0.00
+                                                           20  5900.0  0.00
+                                                           19  5320.0  0.00
+                                                           18  4770.0  0.28
+                                                           17  4250.0  0.79
+                                                           16  3760.0  1.02
+                                                           15  3300.0  1.60
+                                                           14  2870.0  3.82
+                                                           13  2470.0  4.84
+                                                           12  2100.0  7.27
+                                                           11  1760.0  7.58
+                                                           10  1450.0  7.50
+                                                            9  1170.0  8.22
+                                                            8   920.0  8.59
+                                                            7   700.0  8.46
+                                                            6   510.0  7.82
+                                                            5   350.0  7.42
+                                                            4   220.0  7.15
+                                                            3   120.0  6.91
+                                                            2    50.0  6.12
+                                                            1    10.0  4.64
+  NOTICE emsmat: emissions updated -           19           5          24          18
+  NOTICE metpos: (mtime,ftime) -     62795220    62795100
+  NOTICE metinp: ERA5           1        5150         281         201           1           1    62795220          19           5          24          19
+  NOTICE emrise: (mixd,rise) -         1517           0
+  NOTICE   main:           19    62795163       15055   143603568.    
+  NOTICE   main:           19    62795166       15186   143244832.    
+  NOTICE   main:           19    62795169       15317   142936160.    
+  NOTICE   main:           19    62795172       15448   142680944.    
+  NOTICE   main:           19    62795175       15579   142444416.    
+  NOTICE   main:           19    62795178       15710   142224960.    
+  NOTICE   main:           19    62795181       15841   142011872.    
+  NOTICE   main:           19    62795184       15972   141799168.    
+  NOTICE   main:           19    62795187       16103   141596496.    
+  NOTICE   main:           19    62795190       16234   141395968.    
+  NOTICE   main:           19    62795193       16365   141210624.    
+  NOTICE   main:           19    62795196       16496   141030272.    
+  NOTICE   main:           19    62795199       16627   140854256.    
+  NOTICE   main:           19    62795202       16758   140686656.    
+  NOTICE   main:           19    62795205       16889   140535392.    
+  NOTICE   main:           19    62795208       17020   140401712.    
+  NOTICE   main:           19    62795211       17151   140284848.    
+  NOTICE   main:           19    62795214       17282   140181936.    
+  NOTICE   main:           19    62795217       17413   140082240.    
+  NOTICE   main:           19    62795220       17544   139981872.    
+  NOTICE emsmat: emissions updated -           19           5          24          19
+  NOTICE metpos: (mtime,ftime) -     62795280    62795160
+  NOTICE metinp: ERA5           1        5421         281         201           1           1    62795280          19           5          24          20
+  NOTICE emrise: (mixd,rise) -         1766           0
+  NOTICE   main:           20    62795223       15327   140026528.    
+  NOTICE   main:           20    62795226       15458   140073120.    
+  NOTICE   main:           20    62795229       15589   140119360.    
+  NOTICE   main:           20    62795232       15720   140160416.    
+  NOTICE   main:           20    62795235       15851   140197536.    
+  NOTICE   main:           20    62795238       15982   140235344.    
+  NOTICE   main:           20    62795241       16113   140262320.    
+  NOTICE   main:           20    62795244       16244   140276176.    
+  NOTICE   main:           20    62795247       16375   140296112.    
+  NOTICE   main:           20    62795250       16506   140315568.    
+  NOTICE   main:           20    62795253       16637   140334240.    
+  NOTICE   main:           20    62795256       16768   140349648.    
+  NOTICE   main:           20    62795259       16899   140367440.    
+  NOTICE   main:           20    62795262       17030   140379168.    
+  NOTICE   main:           20    62795265       17161   140394240.    
+  NOTICE   main:           20    62795268       17292   140417392.    
+  NOTICE   main:           20    62795271       17423   140439760.    
+  NOTICE   main:           20    62795274       17554   140466096.    
+  NOTICE   main:           20    62795277       17685   140488768.    
+  NOTICE   main:           20    62795280       17816   140508928.    
+  NOTICE emsmat: emissions updated -           19           5          24          20
+  NOTICE metpos: (mtime,ftime) -     62795340    62795220
+  NOTICE metinp: ERA5           1        5692         281         201           1           1    62795340          19           5          24          21
+  NOTICE emrise: (mixd,rise) -         1904           0
+  NOTICE   main:           21    62795283       15593   140061536.    
+  NOTICE   main:           21    62795286       15724   139619024.    
+  NOTICE   main:           21    62795289       15855   139183392.    
+  NOTICE   main:           21    62795292       15986   138747440.    
+  NOTICE   main:           21    62795295       16117   138311792.    
+  NOTICE   main:           21    62795298       16248   137884688.    
+  NOTICE   main:           21    62795301       16379   137484048.    
+  NOTICE   main:           21    62795304       16510   137087152.    
+  NOTICE   main:           21    62795307       16641   136709456.    
+  NOTICE   main:           21    62795310       16772   136341472.    
+  NOTICE   main:           21    62795313       16903   135984000.    
+  NOTICE   main:           21    62795316       17034   135637728.    
+  NOTICE   main:           21    62795319       17165   135311840.    
+  NOTICE   main:           21    62795322       17296   134994528.    
+  NOTICE   main:           21    62795325       17427   134708944.    
+  NOTICE   main:           21    62795328       17558   134430704.    
+  NOTICE   main:           21    62795331       17689   134160704.    
+  NOTICE   main:           21    62795334       17820   133899880.    
+  NOTICE   main:           21    62795337       17951   133649024.    
+  NOTICE   main:           21    62795340       18082   133396560.    
+  NOTICE emsmat: emissions updated -           19           5          24          21
+  NOTICE metpos: (mtime,ftime) -     62795400    62795280
+  NOTICE metinp: ERA5           1        5963         281         201           1           1    62795400          19           5          24          22
+  NOTICE emrise: (mixd,rise) -         1956           0
+  NOTICE   main:           22    62795343       15866   133549128.    
+  NOTICE   main:           22    62795346       15997   133704240.    
+  NOTICE   main:           22    62795349       16128   133866520.    
+  NOTICE   main:           22    62795352       16259   134029960.    
+  NOTICE   main:           22    62795355       16390   134199184.    
+  NOTICE   main:           22    62795358       16521   134375264.    
+  NOTICE   main:           22    62795361       16652   134547792.    
+  NOTICE   main:           22    62795364       16783   134722112.    
+  NOTICE   main:           22    62795367       16914   134895520.    
+  NOTICE   main:           22    62795370       17045   135063760.    
+  NOTICE   main:           22    62795373       17176   135226000.    
+  NOTICE   main:           22    62795376       17307   135384080.    
+  NOTICE   main:           22    62795379       17438   135547024.    
+  NOTICE   main:           22    62795382       17569   135707840.    
+  NOTICE   main:           22    62795385       17700   135869728.    
+  NOTICE   main:           22    62795388       17831   136035616.    
+  NOTICE   main:           22    62795391       17962   136194768.    
+  NOTICE   main:           22    62795394       18093   136362624.    
+  NOTICE   main:           22    62795397       18224   136521824.    
+  NOTICE   main:           22    62795400       18355   136676496.    
+  NOTICE emsmat: emissions updated -           19           5          24          22
+  NOTICE metpos: (mtime,ftime) -     62795460    62795340
+  NOTICE metinp: ERA5           1        6234         281         201           1           1    62795460          19           5          24          23
+  NOTICE emrise: (mixd,rise) -         2001           0
+  NOTICE   main:           23    62795403       16131   136558672.    
+  NOTICE   main:           23    62795406       16262   136447568.    
+  NOTICE   main:           23    62795409       16393   136356448.    
+  NOTICE   main:           23    62795412       16524   136278112.    
+  NOTICE   main:           23    62795415       16655   136207184.    
+  NOTICE   main:           23    62795418       16786   136157216.    
+  NOTICE   main:           23    62795421       16917   136121472.    
+  NOTICE   main:           23    62795424       17048   136106304.    
+  NOTICE   main:           23    62795427       17179   136085248.    
+  NOTICE   main:           23    62795430       17310   136078272.    
+  NOTICE   main:           23    62795433       17441   136083952.    
+  NOTICE   main:           23    62795436       17572   136073936.    
+  NOTICE   main:           23    62795439       17703   136085248.    
+  NOTICE   main:           23    62795442       17834   136097072.    
+  NOTICE   main:           23    62795445       17965   136120560.    
+  NOTICE   main:           23    62795448       18096   136200768.    
+  NOTICE   main:           23    62795451       18227   136295504.    
+  NOTICE   main:           23    62795454       18358   136393264.    
+  NOTICE   main:           23    62795457       18489   136490688.    
+  NOTICE   main:           23    62795460       18620   136600208.    
+  NOTICE emsmat: emissions updated -           19           5          24          23
+  NOTICE   main:           24    62795463       16376   0.00000000    
+  NOTICE   main:           24    62795466       16507   0.00000000    
+  NOTICE   main:           24    62795469       16638   0.00000000    
+  NOTICE   main:           24    62795472       16769   0.00000000    
+  NOTICE   main:           24    62795475       16900   0.00000000    
+  NOTICE   main:           24    62795478       17031   0.00000000    
+  NOTICE   main:           24    62795481       17162   0.00000000    
+  NOTICE   main:           24    62795484       17293   0.00000000    
+  NOTICE   main:           24    62795487       17424   0.00000000    
+  NOTICE   main:           24    62795490       17555   0.00000000    
+  NOTICE   main:           24    62795493       17686   0.00000000    
+  NOTICE   main:           24    62795496       17817   0.00000000    
+  NOTICE   main:           24    62795499       17948   0.00000000    
+  NOTICE   main:           24    62795502       18079   0.00000000    
+  NOTICE   main:           24    62795505       18210   0.00000000    
+  NOTICE   main:           24    62795508       18341   0.00000000    
+  NOTICE   main:           24    62795511       18472   0.00000000    
+  NOTICE   main:           24    62795514       18603   0.00000000    
+  NOTICE   main:           24    62795517       18734   0.00000000    
+  NOTICE   main:           24    62795520       18865   0.00000000    
+  NOTICE parout: created PARDUMP file at -           19           5          25           0
+  NOTICE parout: number particles output -            0
+ WARNING main: puff splitting turned off ... expand MAXPAR
+         or increase merge parameters in CFG namelist file

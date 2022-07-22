@@ -1,0 +1,17 @@
+{
+    "websky_version": "2",
+    "output_version": "2.0.1",
+    "dispersion_period": {
+        "from": "20190524 00Z",
+        "to": "20190525 00Z"
+    },
+    "width_longitude": 92.0,
+    "height_latitude": 30.0,
+    "center_latitude": 55.0,
+    "center_longitude": -98.5,
+    "model_configuration": "HYSPLIT",
+    "carryover": {
+        "any": false,
+        "all": false
+    }
+}
